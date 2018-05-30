@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/BrandNewCoder/zxcv_files/master/pfam_domains_df-1.txt",
+	"file": "https://github.com/BrandNewCoder/zxcv_files/blob/master/pfam_domains_df.csv",
 	"name": "Domains_pfam",
 	"header": 0,
 	"separator": "\t",
