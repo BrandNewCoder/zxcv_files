@@ -1,0 +1,1705 @@
+pfam_domains	dme_Rprox_df	dme_fp_df	hs_Rprox_df	hs_castello_df	hs_fp_df	hs_mullari_df
+(Uracil-5)-methyltransferase family	1	1	0	0	0	0
+116 kDa U5 small nuclear ribonucleoprotein component; N-terminal	0	1	0	0	0	0
+14-3-3 domain	0	1	0	0	1	1
+2-oxoacid dehydrogenase acyltransferase; catalytic domain	0	0	0	0	0	1
+26S proteasome regulatory subunit Rpn7/COP9 signalosome complex subunit 1	0	1	0	0	0	0
+28S ribosomal protein S24; mitochondrial	0	1	1	0	0	1
+28S ribosomal protein S26	0	0	1	0	0	1
+3'-5' exonuclease domain	1	1	0	0	0	1
+3-beta hydroxysteroid dehydrogenase/isomerase	0	0	0	0	0	1
+3-hydroxyacyl-CoA dehydrogenase; C-terminal	0	1	0	0	0	0
+3-hydroxyacyl-CoA dehydrogenase; NAD binding	0	1	0	0	0	0
+3-hydroxyisobutyrate dehydrogenase; NAD-binding domain	0	0	0	1	0	0
+3-oxo-5-alpha-steroid 4-dehydrogenase; C-terminal	0	0	0	0	0	1
+40S ribosomal protein S11; N-terminal	1	1	1	0	1	1
+40S ribosomal protein S4; C-terminal domain	1	1	1	0	0	1
+40S ribosomal protein SA; C-terminal domain	0	1	1	0	1	0
+4Fe-4S ferredoxin-type; iron-sulphur binding domain	0	1	0	0	0	0
+5-formyltetrahydrofolate cyclo-ligase	1	1	1	0	0	0
+60S ribosomal protein L4; C-terminal domain	1	1	0	0	0	0
+60S ribosomal protein L6E	1	1	1	0	0	1
+A-kinase anchoring protein 95 (AKAP95)	0	0	0	0	1	1
+A1 cistron-splicing factor; AAR2	0	0	0	0	0	1
+AARP2CN	0	1	0	0	1	0
+AATF leucine zipper-containing domain	0	0	0	0	1	0
+ABC transporter type 1; transmembrane domain	0	1	0	0	0	1
+ABC transporter-like	1	1	1	1	1	1
+ABC-transporter extension domain	0	1	1	0	0	0
+AIR synthase-related protein; C-terminal domain	0	1	0	0	0	0
+ALG11 mannosyltransferase; N-terminal	0	0	0	0	0	1
+ALIX V-shaped domain	0	1	0	0	0	0
+AMMECR1 domain	0	1	0	0	0	0
+AMP-binding enzyme C-terminal domain	0	0	0	0	0	1
+AMP-dependent synthetase/ligase	0	1	0	0	0	1
+AP complex; mu/sigma subunit	0	1	0	0	0	1
+AP-3 complex subunit delta-1	0	1	0	0	0	0
+AP180 N-terminal homology (ANTH) domain	0	1	0	0	0	0
+APOBEC-like; N-terminal	0	0	1	0	1	1
+ARF7 effector protein; C-terminal	0	1	0	0	0	0
+ASCH domain	0	1	0	0	0	0
+AT hook; DNA-binding motif	0	1	0	0	0	0
+ATP-citrate lyase/succinyl-CoA ligase	0	0	0	0	0	1
+ATP-citrate synthase; citrate-binding domain	0	1	0	0	1	0
+ATP-cone domain	0	1	0	0	0	0
+ATP-dependent DNA helicase RecQ; zinc-binding domain	0	1	0	0	0	0
+ATP-dependent RNA helicase Ski2; C-terminal	0	1	0	0	0	0
+ATP-dependent helicase; C-terminal	0	1	0	0	0	0
+ATP-grasp fold; succinyl-CoA synthetase-type	0	1	0	0	0	0
+ATP11	0	0	0	0	0	1
+ATP:guanido phosphotransferase; N-terminal	0	0	0	0	1	1
+ATP:guanido phosphotransferase; catalytic domain	0	0	0	0	0	1
+ATPase V1 complex; subunit S1 family	0	0	0	0	0	1
+ATPase family AAA domain-containing protein 3; domain of unknown function DUF3523	0	0	0	0	0	1
+ATPase; AAA-type; core	0	1	0	0	0	1
+ATPase; F0 complex; subunit A	0	0	0	0	0	1
+ATPase; F0 complex; subunit E; mitochondrial	0	0	0	0	0	1
+ATPase; F0 complex; subunit G; mitochondrial	0	0	0	0	0	1
+ATPase; F1 complex alpha/beta subunit; N-terminal domain	0	1	0	1	0	0
+ATPase; F1 complex; epsilon  subunit; mitochondrial	0	1	0	0	0	0
+ATPase; F1 complex; gamma subunit	1	1	0	1	0	1
+ATPase; F1/V1/A1 complex; alpha/beta subunit; C-terminal	0	1	0	0	0	0
+ATPase; F1/V1/A1 complex; alpha/beta subunit; nucleotide-binding domain	0	1	0	1	0	1
+ATPase; OSCP/delta subunit	0	1	0	0	0	0
+ATPase; V1 complex; subunit C	0	1	0	0	0	0
+ATPase; dynein-related; AAA domain	0	1	0	0	0	1
+ATPsynthase alpha/beta subunit; N-terminal extension	0	1	0	0	0	1
+AVL9/DENND6 domain	0	0	0	0	0	1
+Abl-interactor; homeo-domain homologous domain	0	1	0	0	0	0
+Acetyl-CoA carboxylase; central domain	0	1	0	0	0	0
+Acetyl-CoA hydrolase/transferase C-terminal domain	1	0	0	0	0	0
+Acin1; RNSP1-SAP18 binding (RSB) motif	0	1	1	0	0	0
+Acireductone dioxygenase ARD family	0	1	0	0	0	0
+Aconitase A/isopropylmalate dehydratase small subunit; swivel domain	0	1	0	0	0	0
+Aconitase/3-isopropylmalate dehydratase large subunit; alpha/beta/alpha domain	1	1	0	0	0	1
+Actin family	0	1	0	0	0	1
+Actin-depolymerising factor homology domain	0	1	0	0	0	1
+Actin-related protein 2/3 complex subunit 2	0	0	0	0	0	1
+Actin-related protein 2/3 complex subunit 3	0	1	0	0	0	0
+Actin-related protein 2/3 complex subunit 4	0	1	0	0	0	0
+Activator of Hsp90 ATPase; N-terminal	0	1	0	0	0	0
+Active regulator of SIRT1	0	0	0	0	0	1
+Acyl transferase	0	1	1	0	1	1
+Acyl-CoA dehydrogenase/oxidase C-terminal	0	1	0	0	0	1
+Acyl-CoA dehydrogenase/oxidase; N-terminal	0	1	0	0	0	0
+Acyl-CoA-binding protein; ACBP	0	0	0	1	0	0
+Acyltransferase; C-terminal domain	0	0	0	0	0	1
+Adaptor protein ClpS; core	0	0	0	0	0	1
+Adenomatous polyposis coli protein repeat	0	1	0	0	0	0
+Adenosine deaminase/editase	0	1	0	0	1	1
+Adenosine/AMP deaminase domain	0	1	0	0	0	1
+Adenosylcobalamin biosynthesis; ATP:cob(I)alamin adenosyltransferase-like	0	0	0	0	0	1
+Adenosylhomocysteinase	0	0	0	0	0	1
+Adenylate cyclase-associated CAP; N-terminal	0	1	0	0	0	0
+Agenet-like domain	0	0	0	0	1	0
+Alanine dehydrogenase/pyridine nucleotide transhydrogenase; N-terminal	0	0	0	0	0	1
+Alanine dehydrogenase/pyridine nucleotide transhydrogenase; NAD(H)-binding domain	0	0	0	0	0	1
+Alanyl-tRNA synthetase; class IIc; N-terminal	0	1	0	0	1	0
+Alcohol dehydrogenase; C-terminal	0	1	0	0	1	1
+Alcohol dehydrogenase; N-terminal	0	0	0	0	0	1
+Aldehyde dehydrogenase domain	1	1	0	1	0	1
+Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant	1	1	0	0	1	1
+Alpha carbonic anhydrase	0	0	0	0	0	1
+Alpha crystallin/Hsp20 domain	1	1	0	0	0	1
+Alpha-2-macroglobulin; N-terminal 2	0	1	0	0	0	0
+Alpha-2-macroglobulin; thiol-ester bond-forming	0	1	0	0	0	0
+Alpha-D-phosphohexomutase; alpha/beta/alpha domain I	0	1	0	0	0	0
+Alpha-D-phosphohexomutase; alpha/beta/alpha domain II	0	0	0	0	0	1
+Alpha-D-phosphohexomutase; alpha/beta/alpha domain III	0	1	0	0	0	0
+Alpha-N-acetylglucosaminidase; N-terminal	0	0	0	0	0	1
+Alpha-N-acetylglucosaminidase; tim-barrel domain	0	0	0	0	0	1
+Alpha-glycerophosphate oxidase; C-terminal	0	0	0	0	0	1
+Alpha-ketoglutarate-dependent dioxygenase AlkB-like	0	0	1	0	0	1
+Alpha/beta hydrolase fold-1	1	1	0	0	0	1
+Amidohydrolase-related	0	1	0	0	0	0
+Amine oxidase	0	0	0	0	0	1
+Amino acid/polyamine transporter I	0	0	0	0	0	1
+Aminoacyl-tRNA synthetase; class II (D/K/N)	1	1	0	0	1	1
+Aminoacyl-tRNA synthetase; class II (G/ P/ S/T)	1	1	0	0	0	1
+Aminoacyl-tRNA synthetase; class Ia	0	1	0	0	1	1
+Aminoacyl-tRNA synthetase; class Ic	0	1	0	0	1	1
+Aminopeptidase P; N-terminal	0	0	0	0	0	1
+Aminotransferase class V domain	1	1	0	0	0	1
+Aminotransferase class-III	0	0	1	0	0	0
+Aminotransferase; class I/classII	1	0	0	0	0	1
+Anaphase-promoting complex subunit 11	0	1	0	0	0	0
+Anaphase-promoting complex subunit 4; WD40 domain	1	1	0	0	1	1
+Ancestral coatomer element 1; Sec16/Sec31	0	1	0	0	0	0
+Ankyrin repeat-containing domain	0	1	0	0	1	1
+Annexin repeat	0	1	1	0	1	1
+Anticodon-binding	0	1	0	0	1	0
+Apoptosis inhibitory 5	1	1	1	0	1	1
+Apoptosis regulator; Bcl-2 protein; BH4	0	0	0	0	1	1
+Apoptosis-antagonizing transcription factor; C-terminal	0	0	0	0	0	1
+Aprataxin; C2HE/C2H2/C2HC zinc finger	0	1	0	0	0	0
+Apyrase	0	0	0	0	0	1
+Arf GTPase activating protein	0	1	1	0	0	1
+Arfaptin homology (AH) domain	0	1	0	0	0	0
+Arginine-tRNA ligase	0	1	0	0	0	1
+Argonaute hook domain	0	1	0	0	0	0
+Argonaute linker 2 domain	1	1	0	0	1	0
+Argonaute; linker 1 domain	1	1	1	0	0	1
+Armadillo	0	1	1	1	0	1
+Armadillo repeat-containing domain	0	0	0	0	0	1
+Armet protein	0	0	0	1	1	0
+Arrestin-like; N-terminal	1	0	0	0	0	0
+Arsenite-resistance protein 2	1	1	1	0	1	1
+Asparagine synthase	1	1	0	0	0	0
+Aspartate/glutamate/uridylate kinase	0	0	0	0	0	1
+Aspartate/ornithine carbamoyltransferase; Asp/Orn-binding domain	0	0	0	0	0	1
+Ataxin 2; SM domain	1	1	0	0	1	0
+Ataxin-10 domain	0	0	0	0	0	1
+Ataxin-2; C-terminal	1	1	1	0	1	0
+Atypical Arm repeat	0	1	0	0	0	0
+Autophagy-related protein 16	0	1	0	0	0	0
+B-box-type zinc finger	0	1	0	0	0	0
+B-cell receptor-associated protein 29/31	0	1	0	0	0	0
+BAR domain	0	1	0	0	0	0
+BAT2; N-terminal	0	1	0	0	1	0
+BING4; C-terminal domain	1	1	0	0	1	1
+BOP1; N-terminal domain	0	1	0	0	0	1
+BP28; C-terminal domain	0	1	0	0	0	0
+BRCT domain	0	1	0	0	1	1
+BRO1 domain	0	1	0	0	0	0
+BTB/Kelch-associated	0	0	0	0	0	1
+BTB/POZ domain	0	1	0	0	0	1
+Bacterial surface antigen (D15)	0	0	0	0	0	1
+Band 4.1; C-terminal	0	1	0	1	0	0
+Band 7 domain	1	1	0	0	0	1
+Basic-leucine zipper domain	0	1	0	0	0	0
+Bcl-x interacting; BH3 domain	0	0	0	0	0	1
+Beta-Casp domain	0	1	0	0	0	1
+Beta-adaptin appendage; C-terminal subdomain	0	0	0	0	0	1
+Beta-ketoacyl synthase; C-terminal	0	1	0	0	0	0
+Beta-ketoacyl synthase; N-terminal	0	1	0	0	0	0
+Bicaudal-D protein; microtubule-associated	0	1	0	0	0	0
+Biotin carboxylase-like; N-terminal domain	0	1	0	0	0	0
+Biotin carboxylase; C-terminal	0	1	0	0	0	0
+Biotin/lipoyl attachment	0	1	0	0	0	0
+Blc2 family	0	0	0	0	1	1
+Brain acid soluble protein 1	0	0	0	1	0	0
+Branched-chain alpha-ketoacid dehydrogenase kinase/Pyruvate dehydrogenase kinase; N-terminal	0	1	0	0	0	0
+Brix domain	1	1	1	0	1	1
+Bromodomain	0	0	0	0	0	1
+Btz domain	1	1	1	0	0	0
+Bystin	1	1	0	0	1	1
+C-terminal associated domain of TOPRIM	0	0	0	0	0	1
+C2 domain	0	1	0	0	0	1
+CAAX amino terminal protease	0	0	0	0	0	1
+CAMSAP; spectrin and Ca2+/calmodulin-binding region	0	1	0	0	0	0
+CARG-binding factor; N-terminal	0	0	1	0	0	1
+CAS/CSE; C-terminal	0	0	0	0	0	1
+CBS domain	0	0	0	0	0	1
+CCAAT-binding factor	1	1	0	0	0	1
+CCR4-NOT transcription complex subunit 1; CAF1-binding domain	0	1	0	0	1	0
+CCR4-NOT transcription complex subunit 1; HEAT repeat	1	1	0	0	1	0
+CCR4-NOT transcription complex subunit 1; TTP binding domain	1	1	0	0	0	1
+CCR4-Not complex component; Not N-terminal domain	0	1	0	0	1	0
+CCR4-Not complex component; Not1; C-terminal	1	1	1	0	0	1
+CCR4-Not complex; Not1 subunit; domain of unknown function DUF3819	0	1	0	0	1	0
+CCSMST1 family	0	0	0	0	0	1
+CD80-like; immunoglobulin C2-set	0	0	0	0	0	1
+CDC45 family	0	0	0	0	0	1
+CDP-alcohol phosphatidyltransferase	0	0	0	0	0	1
+CHCH	0	1	0	0	0	0
+CHD; C-terminal 2	0	0	0	0	0	1
+CKK domain	0	1	0	0	0	0
+CLASP N-terminal domain	0	0	0	0	1	0
+CLU central domain	0	1	0	0	0	0
+CLU domain	0	1	0	0	0	0
+CO dehydrogenase flavoprotein; C-terminal	0	1	0	0	0	0
+COMPASS complex Set1 subunit; N-SET domain	0	1	0	0	0	0
+COX15/CtaA family	0	0	0	0	0	1
+CPL domain	0	1	0	0	1	0
+CRAL-TRIO lipid binding domain	0	1	0	0	0	0
+CRM1 C-terminal domain	0	1	0	0	0	1
+CS domain	0	1	0	0	0	1
+CSN8/PSMD8/EIF3K	0	1	0	0	0	1
+CTLH/CRA C-terminal to LisH motif domain	0	1	0	0	0	1
+CTP synthase; N-terminal	1	1	0	0	0	0
+CUB domain	0	0	0	0	0	1
+Cactin; C-terminal	0	1	0	0	0	0
+Cactin; central domain	0	1	0	0	0	0
+Calcineurin-like phosphoesterase domain; ApaH type	0	1	0	0	0	1
+Caldesmon/lymphocyte specific protein	0	0	0	1	0	0
+Calmodulin-regulated spectrin-associated protein; CH domain	0	1	0	0	0	0
+Calponin homology domain	1	1	0	0	1	1
+Calponin repeat	0	1	0	1	0	0
+Calreticulin/calnexin	0	1	0	0	0	1
+Cancer-associated gene protein 1	0	0	1	0	0	0
+Carbamoyl-phosphate synthase; small subunit N-terminal domain	0	0	0	0	1	0
+Carbamoyl-phosphate synthetase large subunit-like; ATP-binding domain	0	1	0	0	0	1
+Carbamoyl-phosphate synthetase; large subunit oligomerisation domain	0	0	0	0	0	1
+Carbohydrate kinase; FGGY; N-terminal	0	0	0	0	0	1
+Carbon-nitrogen hydrolase	0	1	0	0	0	0
+Carboxyl transferase	0	1	0	0	0	0
+Carboxylesterase; type B	1	1	0	0	0	0
+Casein kinase II; regulatory subunit	0	1	0	0	0	0
+Casein kinase substrate; phosphoprotein PP28	0	0	0	1	0	0
+Catalase core domain	0	0	0	0	0	1
+Catalase immune-responsive domain	0	0	0	1	0	0
+Cathepsin propeptide inhibitor domain (I29)	0	1	0	0	0	0
+Cation efflux protein	0	0	0	0	0	1
+Cation-transporting P-type ATPase; C-terminal	0	1	0	0	0	1
+Cation-transporting P-type ATPase; N-terminal	0	0	0	1	0	1
+Cavin family	0	0	1	0	0	0
+Cdc37; C-terminal	0	1	0	0	0	0
+Cdc37; Hsp90 binding	0	1	0	0	0	0
+Cell division protein borealin	0	1	0	0	0	0
+Cell-cycle alteration and expression-elevated protein in tumour	0	1	0	0	0	0
+Centromere protein Cenp-K	0	0	0	0	0	1
+Centromere protein Cenp-M	0	0	0	0	0	1
+Ceroid-lipofuscinosis neuronal protein 6	0	0	0	0	0	1
+Chaperone DnaJ; C-terminal	0	1	0	0	0	1
+Chaperonin Cpn60/TCP-1 family	0	1	0	1	1	1
+Chloride channel CLIC-like	0	0	0	0	0	1
+Chromatin target of PRMT1 protein; C-terminal	1	1	1	1	0	1
+Chromo domain	0	1	0	0	0	0
+Chromo shadow domain	0	1	0	0	0	0
+Cilia/flagella-associated protein 20/WDR90/C3orf67	1	1	0	0	0	1
+Citrate synthase	0	1	0	0	0	1
+Citron homology (CNH) domain	0	1	0	0	1	0
+Class I myosin tail homology domain	0	1	0	0	0	0
+Class II aldolase/adducin N-terminal	0	1	0	0	0	1
+Clathrin adaptor; alpha/beta/gamma-adaptin; appendage; Ig-like subdomain	0	1	0	0	0	0
+Clathrin/coatomer adaptor; adaptin-like; N-terminal	0	1	0	1	0	1
+Clathrin; heavy chain/VPS; 7-fold repeat	0	1	0	0	1	1
+Clathrin; heavy chain; linker; core motif	0	1	0	0	0	0
+Clathrin; heavy chain; propeller repeat	0	1	0	0	0	0
+Cleavage inducing molecular chaperone; Jiv	0	1	0	0	0	0
+Cleavage stimulation factor subunit 1; dimerisation domain	0	1	0	0	0	1
+Cleavage stimulation factor subunit 2; hinge domain	1	1	0	0	0	0
+Cleavage/polyadenylation specificity factor subunit 5	1	1	1	0	0	1
+Cleavage/polyadenylation specificity factor; A subunit; C-terminal	0	1	0	0	0	1
+Cleft lip and palate transmembrane 1	0	0	0	0	0	1
+Clustered mitochondria protein; N-terminal	0	1	0	0	0	0
+CoA-binding	0	1	0	0	0	1
+Coatomer subunit gamma; C-terminal	0	1	0	0	0	0
+Coatomer; WD associated region	0	1	0	0	0	1
+Coatomer; alpha subunit; C-terminal	0	1	0	0	0	1
+Coatomer; gamma subunit; appendage; Ig-like subdomain	0	1	0	0	0	0
+Codanin-1; C-terminal domain	0	1	0	0	0	0
+Cofactor of BRCA1	0	0	0	0	0	1
+Coiled-coil domain-containing protein 124	0	1	1	1	1	0
+Coilin; N-terminal domain	0	0	0	0	0	1
+Cold-shock protein; DNA-binding	1	1	1	1	1	1
+Collagen IV; non-collagenous	0	1	0	0	0	0
+Collagen triple helix repeat	0	1	0	0	0	0
+Complex 1 LYR protein	0	1	0	0	0	0
+Condensin complex subunit 1; C-terminal	0	0	0	0	0	1
+Condensin complex subunit 1; N-terminal	0	1	0	0	0	0
+Condensin complex subunit 2/barren	0	1	0	0	0	0
+Conserved oligomeric Golgi complex subunit 7	0	0	0	0	0	1
+Copine	0	0	0	0	0	1
+Copper chaperone SCO1/SenC	0	0	0	0	0	1
+Copper homeostasis protein CutC	0	0	0	0	0	1
+Coproporphyrinogen III oxidase; aerobic	0	0	0	0	0	1
+Cornichon	0	0	0	0	0	1
+Cox20/FAM36A	0	0	0	0	0	1
+Cro/C1-type helix-turn-helix domain	0	1	0	1	1	0
+Crotonase superfamily	1	1	0	0	0	1
+Cullin protein; neddylation domain	0	1	0	0	0	1
+Cullin; N-terminal	0	1	0	0	0	1
+Cwf19-like protein; C-terminal domain-2	0	1	0	0	0	0
+Cyclic nucleotide-binding domain	0	0	0	0	1	0
+Cyclin-dependent kinase; regulatory subunit	0	1	0	0	0	0
+Cyclin; C-terminal domain	0	1	0	0	0	0
+Cyclin; N-terminal	0	1	0	0	0	1
+Cyclophilin-type peptidyl-prolyl cis-trans isomerase domain	1	1	0	1	1	1
+Cys/Met metabolism; pyridoxal phosphate-dependent enzyme	0	1	0	0	0	0
+Cystatin domain	0	0	0	0	0	1
+Cysteine rich repeat; tripleX	0	1	0	0	0	0
+Cysteine-rich Golgi apparatus protein 1 repeat	0	0	0	0	0	1
+Cytidine and deoxycytidylate deaminases; zinc-binding	0	1	0	0	0	0
+Cytochrome C oxidase subunit II; transmembrane domain	0	1	0	0	0	0
+Cytochrome P450	0	1	0	0	0	1
+Cytochrome b-c1 complex subunit 8	0	0	0	0	0	1
+Cytochrome b-c1 complex subunit 9	0	0	0	0	0	1
+Cytochrome b5-like heme/steroid binding domain	0	1	0	0	0	1
+Cytochrome b558 alpha-subunit	0	0	0	0	0	1
+Cytochrome c oxidase assembly factor 3; mitochondrial	0	0	0	0	0	1
+Cytochrome c oxidase subunit I	1	1	0	0	0	0
+Cytochrome c oxidase subunit II C-terminal	1	1	0	0	0	1
+Cytochrome c oxidase subunit IV family	0	1	0	0	0	1
+Cytochrome c oxidase-like subunit III	0	1	1	0	0	1
+Cytochrome c oxidase; subunit VIb	0	0	0	1	0	0
+Cytochrome c oxidase; subunit Va/VI	0	0	0	0	0	1
+Cytochrome c/c1 haem-lyase	0	0	0	0	0	1
+Cytochrome c1	0	0	0	0	0	1
+Cytoplasmic FMR1-interacting	0	1	0	0	0	1
+Cytoplasmic activation/proliferation-associated protein-1 C term	0	0	1	1	1	1
+Cytoplasmic polyadenylation element-binding protein; ZZ domain	0	1	0	0	0	0
+D domain of beta-TrCP	0	1	0	0	0	0
+D-isomer specific 2-hydroxyacid dehydrogenase; NAD-binding domain	0	0	0	1	0	1
+D-isomer specific 2-hydroxyacid dehydrogenase; catalytic domain	0	0	0	1	0	1
+DAD/Ost2	0	0	0	0	0	1
+DALR anticodon binding	0	1	0	0	0	1
+DAMP1; SANT/Myb-like domain	0	1	0	0	0	0
+DBC1/CARP1 catalytically inactive NUDIX hydrolase domain	0	0	0	0	1	1
+DBP10; C-terminal	0	1	0	0	0	0
+DDT domain	0	1	0	0	0	0
+DEAD/DEAH box helicase domain	1	1	1	1	1	1
+DEAD2	0	1	0	0	0	0
+DEK; C-terminal	0	1	0	0	0	0
+DENN domain	0	1	0	0	0	0
+DIX domain	0	1	0	0	0	0
+DNA fragmentation factor 45kDa; middle domain	0	0	0	0	0	1
+DNA ligase; ATP-dependent; N-terminal	0	1	0	0	0	0
+DNA ligase; ATP-dependent; central	0	0	0	0	0	1
+DNA polymerase V	0	1	1	1	1	1
+DNA recombination and repair protein Rad51-like; C-terminal	0	0	0	0	0	1
+DNA replication factor RFC1; C-terminal	0	1	0	0	0	0
+DNA topoisomerase I; DNA binding; eukaryotic-type	0	1	0	0	1	0
+DNA topoisomerase I; catalytic core; eukaryotic-type	0	1	0	0	1	0
+DNA topoisomerase; type IA; central	1	1	0	1	1	0
+DNA topoisomerase; type IIA; subunit A/C-terminal	0	0	0	0	0	1
+DNA-directed DNA polymerase; family A; palm domain	0	1	0	0	0	1
+DNA-directed DNA polymerase; family B; exonuclease domain	0	1	0	0	0	1
+DNA-directed DNA polymerase; family B; multifunctional domain	0	1	0	0	0	1
+DNA-directed RNA polymerase; N-terminal	1	1	1	0	0	1
+DNA-directed RNA polymerase; RBP11-like dimerisation domain	0	0	0	0	0	1
+DNA-directed RNA polymerase; insert domain	0	0	0	0	0	1
+DNA-directed RNA polymerase; phage-type	0	1	1	0	1	1
+DNA-directed RNA polymerase; subunit 2; domain 6	1	1	1	0	0	1
+DNA/RNA-binding domain; Est1-type	1	1	0	0	1	0
+DNA/RNA-binding protein Alba-like	0	1	1	0	1	1
+DNA/pantothenate metabolism flavoprotein; C-terminal	0	0	0	0	0	1
+DWNN domain	0	1	0	0	0	0
+DZF domain	1	1	1	1	1	1
+Dbl homology (DH) domain	1	1	0	0	0	1
+Death domain	0	0	0	0	0	1
+Death-like domain of Spt6	0	1	0	0	0	0
+Dedicator of cytokinesis; C-terminal	0	1	0	0	0	0
+Dehydrogenase; E1 component	1	1	0	0	0	1
+Deoxynucleoside kinase domain	0	0	0	0	0	1
+Deoxyuridine triphosphate nucleotidohydrolase/Deoxycytidine triphosphate deaminase	0	1	0	0	0	0
+Dermcidin	0	0	0	0	1	0
+Dicer dimerisation domain	0	1	0	0	0	0
+Dienelactone hydrolase	0	1	0	0	0	1
+Digestive organ expansion factor; predicted	0	1	0	0	0	1
+Dihydroorotate dehydrogenase domain	0	1	0	0	0	1
+Dilute domain	0	0	0	0	0	1
+Diphthamide synthesis DPH1/DPH2	0	0	0	0	0	1
+Divalent ion tolerance protein; CutA	0	0	0	0	0	1
+DnaJ domain	0	1	0	1	1	0
+Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit Swp1	0	0	0	0	0	1
+Domain of unknown function DUF155	1	1	0	0	0	0
+Domain of unknown function DUF1605	0	1	1	1	1	1
+Domain of unknown function DUF1624	0	0	0	0	0	1
+Domain of unknown function DUF1731	0	0	0	0	0	1
+Domain of unknown function DUF1747	0	1	0	0	0	1
+Domain of unknown function DUF1771	0	1	0	0	0	0
+Domain of unknown function DUF1777	1	0	0	0	0	0
+Domain of unknown function DUF1897	0	1	1	0	0	1
+Domain of unknown function DUF1899	0	1	0	0	0	1
+Domain of unknown function DUF3421	1	1	0	0	0	0
+Domain of unknown function DUF3441	0	1	0	0	0	0
+Domain of unknown function DUF3449	0	1	0	0	0	0
+Domain of unknown function DUF3498	0	1	0	0	0	0
+Domain of unknown function DUF3730	0	0	0	0	0	1
+Domain of unknown function DUF382	0	1	0	0	0	0
+Domain of unknown function DUF4042	1	1	0	0	0	0
+Domain of unknown function DUF4149	0	0	0	0	0	1
+Domain of unknown function DUF4174	0	0	1	0	0	0
+Domain of unknown function DUF4217	0	1	0	0	0	0
+Domain of unknown function DUF4414	0	0	0	0	0	1
+Domain of unknown function DUF4605	0	0	0	0	0	1
+Domain of unknown function DUF4745	0	0	0	0	1	0
+Domain of unknown function DUF4749	0	0	0	1	0	0
+Domain of unknown function DUF4780	0	1	0	0	0	0
+Domain of unknown function DUF625	0	0	0	0	0	1
+Domain of unknown function DUF814	0	1	0	0	1	0
+Domain of unknown function DUF89	0	0	0	0	0	1
+Domain of unknown function DUF933	0	1	0	0	0	0
+Double-stranded RNA-binding domain	0	1	1	1	1	1
+Doublecortin domain	0	1	0	0	0	0
+Down-regulated-in-metastasis protein	0	1	0	0	0	1
+Dpy-19/Dpy-19-like	0	0	0	0	0	1
+Dual specificity phosphatase; catalytic domain	1	1	0	0	0	1
+Dual specificity/tyrosine protein phosphatase; N-terminal	0	1	0	0	0	0
+Dynamin central domain	0	1	0	0	0	0
+Dynamin superfamily	0	1	0	0	0	1
+Dynein heavy chain domain	0	1	0	0	1	1
+Dynein heavy chain; coiled coil stalk	0	0	0	0	1	1
+Dynein heavy chain; domain-1	0	1	0	0	0	0
+Dynein heavy chain; domain-2	0	1	0	0	1	0
+Dyskerin-like	0	1	0	0	0	1
+E3 ubiquitin ligase; domain of unknown function DUF908	0	0	0	0	0	1
+E3 ubiquitin ligase; domain of unknown function DUF913	0	0	0	0	1	1
+EB1; C-terminal	0	1	0	0	0	0
+EF-hand domain	0	1	0	0	1	1
+EF-hand; Ca insensitive	0	1	0	0	0	0
+EH domain	0	1	0	0	0	0
+EH domain-containing protein; N-terminal	0	1	0	0	0	0
+ELO family	0	0	0	0	0	1
+ELYS-like domain	0	0	0	0	0	1
+ENTH  domain	0	1	0	0	0	0
+ER membrane protein complex subunit 8/9	0	1	0	0	0	0
+ERAP1-like C-terminal domain	0	1	0	0	0	1
+ERG2/sigma1 receptor-like	0	0	0	0	0	1
+ERV/ALR sulfhydryl oxidase domain	0	0	0	0	0	1
+EVE domain	0	0	0	0	0	1
+Electron transfer flavoprotein; alpha/beta-subunit; N-terminal	1	0	0	0	0	1
+Elongation factor G; III-V domain	0	1	0	1	1	0
+Elongator complex subunit Iki3	0	1	0	0	0	1
+Emopamil-binding protein	0	0	0	0	0	1
+Endonuclease/exonuclease/phosphatase	0	1	0	0	0	1
+Endoplasmic reticulum vesicle transporter; C-terminal	0	0	0	0	0	1
+Endoplasmic reticulum; protein ERp29; C-terminal	0	0	0	1	0	0
+Endosulphine	0	1	0	1	0	0
+Enhancer of mRNA-decapping protein 4; WD40 repeat region	0	1	0	0	0	0
+Enhancer of rudimentary	0	1	0	0	0	1
+Enolase; C-terminal TIM barrel domain	0	1	0	0	1	1
+Enolase; N-terminal	0	1	0	1	0	0
+Enoyl-CoA hydratase/isomerase;  HIBYL-CoA-H type	0	1	0	0	0	1
+Epoxide hydrolase; N-terminal	0	0	0	0	0	1
+Erg28	0	0	0	0	0	1
+Ergosterol biosynthesis ERG4/ERG24	0	0	0	0	0	1
+Essential MCU regulator; mitochondrial	0	0	0	0	0	1
+Eukaryotic porin/Tom40	0	0	0	0	0	1
+Eukaryotic rRNA processing	0	1	0	0	1	1
+Eukaryotic translation initiation factor 3 subunit C; N-terminal domain	1	1	0	0	0	0
+Eukaryotic translation initiation factor 3 subunit D	1	1	0	0	1	0
+Eukaryotic translation initiation factor 3 subunit E; N-terminal	0	1	0	0	1	1
+Eukaryotic translation initiation factor 3 subunit G; N-terminal	0	1	0	0	1	0
+Eukaryotic translation initiation factor 3 subunit J	0	1	0	0	1	0
+Eukaryotic translation initiation factor 4E binding protein	1	1	0	0	1	1
+Exocyst complex component EXOC3/Sec6	0	0	0	0	0	1
+Exocyst component Exo84; C-terminal	0	0	0	0	0	1
+Exonuclease; RNase T/DNA polymerase III	1	1	1	0	1	1
+Exoribonuclease; phosphorolytic domain 1	0	1	0	1	1	1
+Exoribonuclease; phosphorolytic domain 2	0	1	0	0	0	1
+Exosome-associated factor Rrp6; N-terminal	0	1	0	0	0	0
+Exportin-1/Importin-beta-like	0	1	0	0	1	1
+Exportin/Importin; Cse1-like	0	1	0	0	1	1
+Ezrin/radixin/moesin; C-terminal	0	1	0	1	1	0
+F-actin-capping protein subunit alpha	0	1	0	0	0	0
+F-box domain	0	1	0	0	0	1
+FACT complex subunit Spt16; N-terminal lobe domain	0	1	0	0	0	0
+FACT complex subunit Spt16p/Cdc68p	0	1	0	0	0	1
+FAD dependent oxidoreductase	0	1	0	0	0	0
+FAD dependent oxidoreductase; central domain	0	1	0	0	0	0
+FAD-binding; type 1	0	1	0	0	0	0
+FAD-dependent oxidoreductase 2; FAD binding domain	0	1	0	0	0	1
+FAD-linked oxidase; C-terminal	0	0	0	0	0	1
+FAD/NAD(P)-binding domain	0	1	0	0	0	1
+FAM105	0	0	0	0	0	1
+FAM168A/MANI	0	0	0	0	0	1
+FAM195	1	1	0	0	1	0
+FAM46 family	1	1	0	0	0	0
+FANCI solenoid 3 domain	0	0	0	0	0	1
+FAST kinase leucine-rich	0	1	1	0	1	1
+FAST kinase-like protein; subdomain 2	0	1	1	1	1	1
+FATC domain	0	1	0	0	1	0
+FCH domain	0	0	0	0	0	1
+FCP1 homology domain	0	0	0	0	0	1
+FDF domain	1	1	1	1	1	1
+FERM adjacent (FA)	1	1	0	0	0	0
+FERM central domain	0	1	0	0	1	0
+FERM; C-terminal PH-like domain	1	1	0	0	0	0
+FERM; N-terminal	0	1	0	0	0	1
+FF domain	0	1	0	0	1	0
+FKBP-type peptidyl-prolyl cis-trans isomerase domain	1	1	0	1	0	1
+FY-rich; C-terminal	0	0	0	0	0	1
+FYVE zinc finger	1	1	0	0	0	0
+Fanconi anaemia protein FANCD2	0	0	0	0	0	1
+Fascin domain	0	0	0	0	0	1
+Fatty acid desaturase domain	0	0	0	0	0	1
+Fatty acid hydroxylase	0	0	0	0	0	1
+Fatty acyl-CoA reductase; C-terminal	0	0	0	0	0	1
+Ferrochelatase	0	1	0	0	0	0
+Fibrillarin	0	1	1	0	1	1
+Fibronectin type III	1	1	0	1	1	1
+Filamin/ABP280 repeat-like	0	1	0	1	1	0
+Focadhesin	0	0	0	0	0	1
+Foie gras liver health family 1	0	0	0	0	0	1
+Forkhead-associated (FHA) domain	0	1	0	0	0	0
+Formate-tetrahydrofolate ligase; FTHFS	0	0	0	1	0	1
+Formin; FH2 domain	0	1	0	0	0	1
+Formin; FH3 domain	0	1	0	0	0	0
+Formin; GTPase-binding domain	0	1	0	0	0	1
+Fox-1 C-terminal domain	0	0	0	0	0	1
+Fragile X-related 1 protein; C-terminal core	1	1	1	1	1	1
+Fragile X-related 1 protein; C-terminal region 1	0	0	1	0	0	1
+Fragile X-related mental retardation protein; C-terminal region 2	0	0	1	0	0	0
+Fructose-bisphosphate aldolase; class-I	0	1	0	1	1	1
+Fyv7/TAP26	0	0	0	0	1	1
+G-patch domain	0	1	0	0	1	1
+G10 protein	0	1	0	0	0	0
+GAD domain	0	0	0	0	1	0
+GC-rich sequence DNA-binding factor domain	0	0	0	0	0	1
+GDP dissociation inhibitor	0	1	0	0	0	0
+GMP synthase; C-terminal	0	0	0	0	0	1
+GNAT domain	0	1	0	0	0	1
+GOLD domain	0	0	0	0	0	1
+GPI mannosyltransferase	0	0	0	0	0	1
+GPI transamidase component Gaa1	0	0	0	0	0	1
+GPI transamidase component PIG-T	0	0	0	0	0	1
+GPI transamidase subunit PIG-U	0	0	0	0	0	1
+GRAM domain	0	1	0	0	0	1
+GTP binding domain	1	1	0	0	0	1
+GTP binding protein; second domain	0	1	0	0	1	0
+GTP-binding protein LepA; C-terminal	0	1	0	0	0	0
+GTP-binding protein; middle domain	0	1	0	0	0	0
+GTP1/OBG domain	1	1	0	0	0	0
+GTPase HflX; N-terminal	0	1	0	0	0	0
+GUCT	0	0	1	1	0	1
+GW182; middle domain	1	1	0	0	1	0
+GWT1	0	0	0	0	0	1
+GYF domain	1	1	0	0	1	0
+Galactosyltransferase; N-terminal	0	0	0	0	0	1
+Gamma interferon inducible lysosomal thiol reductase GILT	0	0	0	0	0	1
+Gamma-glutamylcyclotransferase; AIG2-like	1	1	0	0	0	0
+Gamma-glutamyltranspeptidase	0	0	0	0	0	1
+Gamma-secretase subunit Aph-1	0	0	0	0	0	1
+Gamma-tubulin complex component protein	0	1	0	0	0	1
+Gas2-related domain	0	1	0	1	0	0
+Gcp-like domain	0	0	0	0	0	1
+Gelsolin-like domain	0	1	0	0	0	1
+Germinal-centre associated nuclear protein; MCM3AP domain	0	0	0	0	1	0
+GidA associated domain 3	0	1	0	0	1	0
+Glucosamine/galactosamine-6-phosphate isomerase	1	0	0	0	0	1
+Glucose-6-phosphate dehydrogenase; C-terminal	0	0	0	0	0	1
+Glucose-6-phosphate dehydrogenase; NAD-binding	0	0	0	0	0	1
+Glutamate synthase domain	0	1	0	0	0	0
+Glutamate synthase; alpha subunit; C-terminal	0	1	0	0	0	0
+Glutamate synthase; central-N	0	1	0	0	0	0
+Glutamate-cysteine ligase catalytic subunit	0	1	0	0	0	1
+Glutamate/phenylalanine/leucine/valine dehydrogenase; dimerisation domain	0	0	0	0	0	1
+Glutaminase	0	1	0	0	0	0
+Glutamine amidotransferase	0	1	0	0	0	0
+Glutaminyl-tRNA synthetase; class Ib; non-specific RNA-binding domain; N-terminal	0	1	0	0	0	0
+Glutamyl/glutaminyl-tRNA synthetase; class Ib; anti-codon binding domain	0	1	0	0	0	1
+Glutamyl/glutaminyl-tRNA synthetase; class Ib; catalytic domain	0	0	0	0	0	1
+Glutathione S-transferase; C-terminal	0	1	0	0	1	1
+Glutathione S-transferase; N-terminal	0	1	0	0	1	1
+Glutathione peroxidase	0	0	0	0	0	1
+Glyceraldehyde 3-phosphate dehydrogenase; NAD(P) binding domain	0	0	0	0	0	1
+Glycerophosphodiester phosphodiesterase domain	0	0	0	0	0	1
+Glycine cleavage T-protein-like; N-terminal	1	1	0	0	0	0
+Glycine cleavage T-protein; C-terminal barrel domain	0	1	0	0	1	1
+Glycogen debranching enzyme; central domain	0	0	0	0	0	1
+Glycogen debranching enzyme; glucanotransferase domain	0	0	0	0	0	1
+Glycogen synthase	0	1	0	0	0	0
+Glycolipid transfer protein domain	0	1	0	0	0	0
+Glycoside hydrolase family 18; catalytic domain	0	1	0	0	0	0
+Glycoside hydrolase family 2; catalytic domain	0	0	0	0	0	1
+Glycoside hydrolase family 31	0	0	0	0	0	1
+Glycoside hydrolase family 31; N-terminal domain	0	1	0	0	0	0
+Glycoside hydrolase; family 22	0	0	0	0	1	0
+Glycoside hydrolase; family 27	0	0	0	0	0	1
+Glycoside hydrolase; family 85	0	0	0	0	0	1
+Glycosyl hydrolase family 38; C-terminal	1	0	0	0	0	0
+Glycosyl hydrolase family 63; C-terminal	0	1	0	0	0	1
+Glycosyl hydrolase; family 13; catalytic domain	0	1	0	0	0	1
+Glycosyl transferase; ALG6/ALG8	0	0	0	0	0	1
+Glycosyl transferase; family 31	0	0	0	0	0	1
+Glycosyl transferase; family 35	0	0	0	0	0	1
+Glycosyl transferase; family 43	0	0	0	0	0	1
+Glycosyl transferase; family 8	0	0	0	0	0	1
+Glycosyl-hydrolase family 116; N-terminal	0	0	0	0	0	1
+Glycosyltransferase subfamily 4-like; N-terminal domain	0	0	0	0	0	1
+Glyoxalase/fosfomycin resistance/dioxygenase domain	0	0	0	0	0	1
+Glypican	0	0	0	0	0	1
+GroES chaperonin family	0	0	0	1	0	0
+Growth arrest/ DNA-damage-inducible protein-interacting protein 1	0	1	0	0	1	0
+Guanine nucleotide binding protein (G-protein); alpha subunit	0	1	0	0	0	1
+Guanine nucleotide exchange factor; N-terminal	0	0	0	0	0	1
+Guanine nucleotide exchange factor; Ric8	0	0	0	0	0	1
+Guanine nucleotide-binding protein-like 3; N-terminal domain	0	0	0	0	0	1
+Guanylate kinase/L-type calcium channel beta subunit	0	1	0	0	0	0
+H/ACA ribonucleoprotein complex; subunit Gar1/Naf1	1	1	0	0	1	1
+H/ACA ribonucleoprotein complex; subunit Nop10	0	1	0	0	0	0
+HAD-like domain	0	1	0	0	0	0
+HAD-superfamily hydrolase; subfamily IG; 5'-nucleotidase	0	1	0	0	0	1
+HAT (Half-A-TPR) repeat	0	1	0	0	0	0
+HBS1-like protein; N-terminal	0	1	0	0	0	1
+HEAT repeat	1	1	0	0	0	1
+HECT domain	0	1	0	0	1	1
+HIRAN domain	0	0	0	0	0	1
+HORMA domain	0	0	0	0	0	1
+Haem peroxidase; animal	0	1	0	0	0	0
+Harbinger transposase-derived nuclease domain	1	1	0	0	0	0
+Headcase protein	0	1	0	0	0	0
+Headcase; middle domain	1	1	0	0	0	0
+Heat shock protein 70 family	0	1	0	1	1	1
+Heat shock protein DnaJ; cysteine-rich domain	0	1	0	0	0	1
+Heat shock protein Hsp90 family	1	1	0	1	1	1
+Helical and beta-bridge domain	0	1	0	0	0	0
+Helicase domain	0	0	0	0	0	1
+Helicase-associated domain	0	1	1	1	1	1
+Helicase/SANT-associated domain	0	1	0	0	0	0
+Helicase/UvrB; N-terminal	0	1	0	0	0	0
+Helicase; C-terminal	1	1	1	1	1	1
+Helix-turn-helix DNA-binding domain of Spt6	0	1	0	0	0	0
+Hepatocyte growth factor-regulated tyrosine kinase substrate; helical domain	0	1	0	0	0	0
+Heterogeneous nuclear ribonucleoprotein M; PY nuclear localisation signal	0	0	1	1	0	1
+Hexokinase; C-terminal	0	1	0	0	0	1
+Hexokinase; N-terminal	0	1	0	0	0	1
+High mobility group box domain	0	1	0	1	1	0
+Higher eukaryotic phosphomevalonate kinase	0	0	0	0	0	1
+Histidine kinase-like ATPase; C-terminal domain	0	1	0	1	1	1
+Histidine phosphatase superfamily; clade-1	0	0	0	0	0	1
+Histidine phosphatase superfamily; clade-2	0	1	0	0	0	0
+Histone H2A; C-terminal domain	0	0	0	1	0	0
+Histone deacetylase domain	0	1	0	0	0	0
+Histone-binding protein RBBP4; N-terminal	0	0	0	1	1	0
+Homeobox domain	0	1	0	0	0	1
+Hyaluronan/mRNA-binding protein	1	1	1	1	0	1
+Hypoxia induced protein; domain	0	0	0	0	0	1
+I/LWEQ domain	0	1	0	0	0	0
+IMP dehydrogenase/GMP reductase	0	0	0	1	0	1
+IQ motif; EF-hand binding site	0	1	0	0	0	1
+IRS-type PTB domain	0	1	1	0	1	1
+Immunoglobulin	0	1	1	0	0	0
+Immunoglobulin C1-set	0	0	0	0	1	1
+Immunoglobulin I-set	0	1	0	0	1	1
+Importin-alpha; importin-beta-binding domain	0	1	0	0	0	0
+Importin-beta; N-terminal domain	0	1	0	0	1	1
+Initiation factor 2B-related	0	1	0	0	0	1
+Initiation factor eIF-4 gamma; MA3	1	1	1	0	1	1
+Inner centromere protein; ARK-binding domain	0	1	0	0	0	0
+Inner nuclear membrane protein MAN1	0	0	0	0	0	1
+Inorganic pyrophosphatase	0	1	0	0	0	0
+Inositol polyphosphate kinase	0	0	0	0	0	1
+Integral membrane protein EMC3/TMCO1-like	0	0	0	0	0	1
+Integrator complex subunit 2	0	0	0	0	0	1
+Integrator complex subunit 3	0	0	0	0	0	1
+Integrator complex subunit 5; C-terminal	0	0	0	0	0	1
+Interferon regulatory factor-3	0	0	0	0	0	1
+Intermediate filament protein	0	0	0	0	0	1
+Intracellular hyaluronan-binding protein 4; N-terminal domain	0	0	1	1	1	1
+Intron-binding protein aquarius; N-terminal	1	1	1	0	0	0
+Iron sulphur domain-containing; mitoNEET; N-terminal	0	1	0	0	0	1
+Iron sulphur-containing domain; CDGSH-type	0	1	0	0	0	0
+Isopropylmalate dehydrogenase-like domain	0	1	0	0	0	1
+Isy1-like splicing	1	1	0	0	0	0
+JAB1/MPN/MOV34 metalloenzyme domain	0	1	0	0	1	1
+JmjC domain	0	1	0	0	0	1
+K Homology domain; type 1	1	1	1	1	1	1
+K Homology domain; type 2	1	1	1	1	0	1
+K167R	0	0	0	0	1	0
+KAP family P-loop domain	0	0	0	0	0	1
+KOW	1	1	1	0	0	1
+Kelch repeat type 1	0	0	0	0	0	1
+Ketoacyl-synthetase; C-terminal extension	0	1	0	0	0	0
+Kinase associated domain 1 (KA1)	0	1	0	0	0	0
+Kinase phosphorylation domain	0	0	0	0	1	0
+Kinesin motor domain	0	1	0	0	1	0
+Kinesin-associated	0	0	0	0	1	0
+Kinesin-associated microtubule-binding domain	0	1	0	0	0	0
+Kinesin-like	0	1	0	0	0	0
+Kinesin-like protein Kif23; Arf6-interacting domain	0	1	0	0	0	0
+Kri1-like; C-terminal	0	1	0	0	0	0
+Ku70/Ku80 C-terminal arm	0	0	1	0	1	1
+Ku70/Ku80 beta-barrel domain	0	0	1	0	1	1
+Ku70/Ku80; N-terminal alpha/beta	0	0	1	1	1	1
+Ku; C-terminal	0	0	0	0	1	0
+LEM domain	0	0	0	1	0	1
+LETM1-like	0	0	0	0	0	1
+LISCH7	0	0	0	0	0	1
+LRRC8; pannexin-like TM region	0	0	0	0	0	1
+LSM domain; eukaryotic/archaea-type	1	1	1	1	1	1
+La protein; RNA-binding domain	0	1	0	0	1	1
+Lactate/malate dehydrogenase; C-terminal	0	1	0	1	1	1
+Lactate/malate dehydrogenase; N-terminal	0	1	0	1	0	1
+Laminin EGF domain	0	1	0	0	0	0
+Laminin G domain	0	1	0	0	0	0
+Laminin IV	1	1	0	0	0	0
+Laminin alpha; domain I	0	1	0	0	0	0
+Laminin domain II	0	1	0	0	0	0
+Laminin; N-terminal	0	1	0	1	0	0
+Lanthionine synthetase C-like	0	0	0	0	0	1
+Lariat debranching enzyme; C-terminal	0	1	0	0	0	0
+Las1-like	0	0	0	0	0	1
+Learning associated protein 18-like	0	1	0	0	0	0
+Legume-like lectin	0	0	0	0	0	1
+Lethal giant larvae homologue 2	0	1	0	0	0	0
+Leucine rich repeat 5	0	1	0	0	0	0
+Leucine-rich repeat	1	1	0	1	1	1
+Link domain	0	0	0	1	0	0
+Linker histone H1/H5; domain H15	0	0	0	1	1	1
+Lipase maturation factor	0	0	0	0	0	1
+Lipid transport protein; N-terminal	0	1	0	0	0	0
+Lipid-binding serum glycoprotein; C-terminal	0	0	0	0	0	1
+Lipocalin/cytosolic fatty-acid binding domain	0	1	0	0	0	0
+Longin domain	0	1	0	0	0	0
+Low temperature viability protein	0	1	0	0	1	0
+Low-density lipoprotein (LDL) receptor class A repeat	0	1	0	0	0	1
+Lsm14 N-terminal	1	1	0	0	0	0
+LsmAD domain	1	1	0	0	1	0
+Luc7-related	0	1	1	0	1	1
+Lunapark domain	0	0	0	0	0	1
+Ly-6 antigen/uPA receptor-like	0	0	0	0	0	1
+Lysosome-associated membrane glycoprotein	0	0	0	0	0	1
+M-phase-specific PLK1-interacting protein-like	1	0	0	0	0	1
+MADF domain	0	1	0	0	0	0
+MAGE homology domain	0	0	0	0	1	0
+MAM domain	1	1	0	0	0	0
+MCM N-terminal domain	0	0	0	0	0	1
+MCM OB domain	0	1	0	0	0	1
+MCM domain	0	1	0	0	0	1
+MD-2-related lipid-recognition domain	0	0	0	0	0	1
+MENTAL domain	0	0	0	0	0	1
+MHC class I-like antigen recognition-like	0	0	0	0	1	1
+MICOS complex subunit MIC26/MIC27	0	0	0	0	0	1
+MIF4G-like; type 1	0	1	0	0	0	0
+MIF4G-like; type 2	0	1	0	0	0	1
+MIF4G-like; type 3	1	1	1	0	1	1
+MIR motif	0	0	0	0	0	1
+MIT	0	1	0	0	0	0
+MIT; C-terminal phospholipase D-like domain	1	1	0	0	0	1
+MMS19; C-terminal	0	0	0	0	0	1
+MMS22-like; C-terminal	0	1	0	0	0	0
+MT-A70-like	0	1	0	0	0	0
+MYCBP-associated protein	0	1	0	0	0	0
+Mab-21 domain	1	0	0	0	0	0
+Macro domain	0	0	0	0	0	1
+Macrophage migration inhibitory factor	0	0	0	0	0	1
+Mad3/Bub1 homology region 1	0	1	0	0	0	0
+Maelstrom domain	0	1	0	0	0	0
+Magnesium transporter	0	0	0	0	0	1
+Mago nashi protein	0	1	1	0	0	0
+Major facilitator superfamily	0	1	0	0	0	1
+Major facilitator;  sugar transporter-like	0	0	0	0	0	1
+Major sperm protein (MSP) domain	0	1	0	0	0	0
+Mak16 protein	0	1	0	0	0	0
+Male sterility; NAD-binding	0	0	0	0	0	1
+Manganese/iron superoxide dismutase; N-terminal	0	1	0	0	0	0
+Mannose-6-phosphate receptor	0	0	0	0	0	1
+Marvel domain	0	0	0	0	0	1
+Mediator complex; subunit Med12; LCEWAV-domain	0	0	0	0	0	1
+Mediator complex; subunit Med23	0	0	0	0	0	1
+Mediator complex; subunit Med25; PTOV activation and synapsin 2	0	1	0	0	0	1
+Membralin	0	0	0	0	0	1
+Membrane bound O-acyl transferase; MBOAT	0	0	0	0	0	1
+Membrane insertase OXA1/ALB3/YidC	0	1	0	0	1	1
+Membrane-associated; eicosanoid/glutathione metabolism (MAPEG) protein	0	0	0	0	0	1
+Menin	0	0	0	0	0	1
+Metallo-beta-lactamase	0	1	0	0	0	1
+Metaxin; glutathione S-transferase domain	0	0	0	0	0	1
+Methionyl/Leucyl tRNA synthetase	1	1	0	0	0	1
+Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase; anticodon-binding	0	1	0	0	0	1
+Methylglyoxal synthase-like domain	0	0	0	0	0	1
+Methylpurine-DNA glycosylase (MPG)	0	0	1	0	1	1
+Methyltransferase domain	0	0	0	0	1	1
+Methyltransferase type 11	0	1	0	0	0	0
+Methyltransferase type 12	0	0	0	0	0	1
+Micro-fibrillar-associated protein 1; C-terminal	0	1	0	0	0	1
+Microtubule associated protein;  tubulin-binding repeat	0	0	0	1	0	0
+Microtubule-associated protein Jupiter/Hematological and neurological expressed 1	0	1	0	0	0	1
+Mini-chromosome maintenance complex-binding protein	0	0	0	0	0	1
+Mitochondrial 28S ribosomal protein S31	1	1	1	1	1	1
+Mitochondrial 28S ribosomal protein S34	0	1	1	0	1	1
+Mitochondrial ATPase inhibitor	0	1	0	0	0	0
+Mitochondrial apoptosis-inducing factor; C-terminal domain	0	0	0	0	0	1
+Mitochondrial glycoprotein	0	1	0	0	0	0
+Mitochondrial import receptor subunit TOM5 homologue	0	0	0	0	0	1
+Mitochondrial import receptor subunit Tom22	0	0	0	0	0	1
+Mitochondrial inner membrane protein Mitofilin	0	0	0	0	0	1
+Mitochondrial inner membrane translocase subunit Tim17/Tim22/Tim23/peroxisomal protein PMP24	0	0	0	0	0	1
+Mitochondrial pyruvate carrier	0	0	0	0	0	1
+Mitochondrial substrate/solute carrier	0	1	0	1	0	1
+Mo25-like	0	1	0	0	0	0
+Molybdopterin oxidoreductase	0	0	0	0	0	1
+Mon2; C-terminal	0	1	0	0	0	1
+Mon2; dimerisation and cyclophilin-binding domain	0	0	0	0	0	1
+Mu homology domain	0	1	0	1	0	0
+Multiprotein bridging factor 1; N-terminal	0	1	1	0	1	1
+MyTH4 domain	0	1	0	0	0	0
+Myc-type; basic helix-loop-helix (bHLH) domain	0	0	1	0	0	0
+Myelin proteolipid protein PLP	0	0	0	0	0	1
+Myeloid leukemia factor	0	1	0	0	0	0
+Myo-inositol-1-phosphate synthase	1	1	0	0	0	0
+Myo-inositol-1-phosphate synthase; GAPDH-like	0	1	0	0	0	0
+Myosin head; motor domain	0	1	0	1	1	1
+Myosin tail	0	1	0	0	0	0
+Myotubularin-like phosphatase domain	0	1	0	0	0	1
+Myristoyl-CoA:protein N-myristoyltransferase; C-terminal	0	0	0	0	1	0
+N-acetylglucosaminyltransferase II	0	0	0	0	0	1
+N-acetyltransferase B complex; non-catalytic subunit	0	1	0	0	0	1
+N-terminal acetyltransferase A; auxiliary subunit	0	1	0	0	1	0
+NAD(P)-binding domain	0	1	0	0	0	0
+NAD-dependent epimerase/dehydratase	0	1	0	0	0	1
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12	0	1	0	0	0	0
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3	0	0	0	0	0	1
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8	0	0	0	0	0	1
+NADH dehydrogenase subunit 5; C-terminal	0	0	0	0	0	1
+NADH-quinone oxidoreductase; chain G; C-terminal	0	0	0	0	0	1
+NADH-quinone oxidoreductase; subunit D	0	0	0	0	0	1
+NADH-ubiquinone oxidoreductase 51 kDa subunit; FMN-binding domain	0	0	0	0	0	1
+NADH-ubiquinone reductase complex 1 MLRQ subunit	0	0	0	0	0	1
+NADH:quinone oxidoreductase/Mrp antiporter; membrane subunit	1	1	0	0	0	1
+NADH:ubiquinone oxidoreductase-like; 20kDa subunit	1	0	0	0	0	0
+NADH:ubiquinone oxidoreductase; 30kDa subunit	0	0	0	0	0	1
+NADH:ubiquinone oxidoreductase; MNLL subunit	0	0	0	0	0	1
+NADH:ubiquinone oxidoreductase; NDUFB5/SGDH subunit	0	0	0	0	0	1
+NADH:ubiquinone oxidoreductase; subunit 1/F420H2 oxidoreductase subunit H	1	0	0	0	0	1
+NADH:ubiquinone oxidoreductase; subunit NDUFB4	0	0	0	0	0	1
+NADH:ubiquinone/plastoquinone oxidoreductase; chain 3	0	0	0	0	0	1
+NADP transhydrogenase; beta subunit	0	0	0	0	0	1
+NADP-dependent oxidoreductase domain	0	1	0	0	0	0
+NDRG	0	0	0	1	0	0
+NF-kappa-B-activating protein/UPF0396	0	1	0	0	0	0
+NHL repeat	1	1	0	0	0	0
+NOP5; N-terminal	0	1	0	1	0	1
+NOPS	0	1	1	1	1	1
+NOT2/NOT3/NOT5	0	1	0	0	0	0
+NUC153	0	1	0	0	0	0
+NUC194	0	0	1	0	0	1
+NUDIX hydrolase domain	0	1	0	0	0	1
+Nascent polypeptide-associated complex NAC domain	1	1	0	0	0	0
+Nck-associated protein 1	0	1	0	0	0	1
+Nebulin repeat	0	1	0	1	0	0
+Neugrin/Rrg9	1	1	0	0	0	1
+Neuralized homology repeat (NHR) domain	0	0	0	0	0	1
+Neurogenic mastermind-like; N-terminal	1	0	0	0	0	0
+Neurotransmitter-gated ion-channel transmembrane domain	0	0	0	0	0	1
+Non-haem dioxygenase N-terminal domain	0	1	0	0	0	0
+Nonaspanin (TM9SF)	0	0	0	0	0	1
+Nop domain	0	1	1	0	0	1
+Notch domain	0	0	0	0	0	1
+Notch; NOD domain	0	0	0	0	0	1
+Nrap protein	1	1	0	0	0	1
+Nuclear RNA export factor Tap; RNA-binding domain	1	1	1	0	1	1
+Nuclear cap-binding protein subunit 3	0	0	0	0	1	0
+Nuclear condensin complex subunit 3; C-terminal domain	0	1	0	0	0	0
+Nuclear envelope phosphatase-regulatory subunit 1	0	0	0	0	0	1
+Nuclear factor hnRNPA1	0	0	1	1	0	1
+Nuclear fragile X mental retardation-interacting protein 2	0	0	0	0	1	0
+Nuclear pore localisation protein NPL4; C-terminal	0	0	0	0	0	1
+Nuclear pore protein 84/107	0	0	0	0	0	1
+Nuclear protein 96	0	0	0	0	0	1
+Nuclear transport factor 2	1	1	1	0	0	1
+Nucleolar 27S pre-rRNA processing; Urb2/Npa2; C-terminal	0	0	0	0	0	1
+Nucleolar GTP-binding protein 1; Rossman-fold domain	0	1	0	0	0	0
+Nucleolar GTP-binding protein 2; N-terminal domain	0	1	0	0	0	1
+Nucleolar complex protein 2	0	1	0	0	1	1
+Nucleolar complex-associated protein 3; N-terminal	1	1	0	0	0	0
+Nucleolar pre-ribosomal-associated protein 1; C-terminal domain	0	1	0	0	0	0
+Nucleolar pre-ribosomal-associated protein 1; N-terminal	0	1	0	0	0	0
+Nucleolar protein 12	0	1	0	0	0	0
+Nucleolar protein 14	0	1	0	0	1	1
+Nucleolar; Nop52	0	1	0	0	1	0
+Nucleophosmin; C-terminal	0	0	1	1	0	1
+Nucleoplasmin core domain	0	1	0	0	1	1
+Nucleoporin Nup186/Nup192/Nup205	0	1	0	0	0	1
+Nucleoporin Nup188	0	0	0	0	0	1
+Nucleoporin Nup85-like	0	0	0	0	0	1
+Nucleoporin interacting component Nup93/Nic96	0	1	0	0	0	1
+Nucleoporin protein Ndc1-Nup	0	0	0	0	0	1
+Nucleoporin; Nup133/Nup155-like; C-terminal	0	0	0	0	0	1
+Nucleoporin; Nup133/Nup155-like; N-terminal	0	0	0	0	0	1
+Nucleoprotein TPR/MLP1	0	1	0	0	0	0
+Nucleoside diphosphate kinase	0	0	0	0	0	1
+Nucleoside phosphatase GDA1/CD39	0	1	0	0	0	0
+Nucleoside-triphosphatase; THEP1 type	0	0	1	0	0	1
+Nucleosome assembly protein (NAP)	0	1	0	0	0	0
+NudC N-terminal domain	0	1	0	0	0	0
+OB-fold nucleic acid binding domain; AA-tRNA synthetase-type	1	1	0	0	1	1
+ODR-4-like	0	0	0	0	0	1
+ORMDL family	0	0	0	0	0	1
+OST-HTH/LOTUS domain	0	0	0	0	1	0
+OTU domain	0	0	0	0	1	0
+Oligosaccharyl transferase complex; subunit OST3/OST6	0	1	0	0	0	1
+Oligosaccharyl transferase; STT3 subunit	0	1	0	0	0	1
+Origin recognition complex; subunit 2	0	1	0	0	0	0
+Origin recognition complex; subunit 5	0	0	0	0	0	1
+Ovarian carcinoma immunoreactive antigen	0	0	0	0	0	1
+Oxidoreductase FAD/NAD(P)-binding	0	1	0	0	0	1
+Oxidoreductase; FAD-binding domain	0	0	0	0	0	1
+Oxysterol-binding protein	0	1	0	0	0	0
+P-type ATPase; A  domain	0	1	0	0	0	1
+P-type ATPase; N-terminal	0	0	0	0	0	1
+P120R repeat	0	0	0	0	1	0
+PAN2 domain	0	1	0	0	0	0
+PAP/25A-associated	1	1	0	0	0	0
+PAZ domain	1	1	0	0	1	0
+PB1 domain	0	1	0	0	0	0
+PDZ domain	1	1	0	1	0	1
+PEST proteolytic signal-containing nuclear protein	0	0	0	1	0	0
+PET domain	0	1	0	0	0	0
+PHF5-like	0	1	0	0	1	1
+PI31 proteasome regulator;  N-terminal	1	1	0	0	0	0
+PIH1 family	0	1	0	0	0	0
+PIK-related kinase; FAT	0	0	0	0	1	1
+PIN domain	1	1	0	0	0	0
+PITH domain	0	1	0	0	0	0
+POLO box domain	0	1	0	0	0	0
+PPM-type phosphatase domain	0	1	0	0	0	1
+PRO8NT domain	0	1	1	0	1	0
+PROCN domain	1	1	1	0	1	1
+PROCT domain	0	1	1	0	0	1
+PRP8 domain IV core	0	1	1	0	1	1
+PSP; proline-rich	0	1	1	0	0	1
+PTB/PI domain	0	1	0	0	0	0
+PTP type protein phosphatase	1	1	0	0	0	1
+PUA domain	1	1	0	0	1	1
+PUB domain	0	1	0	0	0	0
+PWI domain	0	1	0	0	1	0
+Paired amphipathic helix	0	0	0	0	0	1
+Patatin/Phospholipase A2-related	0	1	0	0	0	0
+Pentacotripeptide-repeat region of PROPR	1	1	1	0	1	0
+Pentatricopeptide repeat	1	1	1	1	1	1
+Peptidase A22B; signal peptide peptidase	0	1	0	0	0	1
+Peptidase C19; ubiquitin carboxyl-terminal hydrolase	1	1	0	0	1	1
+Peptidase C19; ubiquitin-specific peptidase; DUSP domain	0	1	0	0	0	0
+Peptidase C1A; papain C-terminal	0	1	0	0	0	0
+Peptidase C2; calpain; catalytic domain	0	0	0	0	0	1
+Peptidase C50; separase	0	0	0	0	1	0
+Peptidase C69; dipeptidase A	0	0	0	0	0	1
+Peptidase C78; ubiquitin fold modifier-specific peptidase 1/ 2	0	0	0	0	0	1
+Peptidase M16; C-terminal	0	1	0	0	0	1
+Peptidase M16; N-terminal	0	1	0	0	0	1
+Peptidase M16; middle/third domain	0	0	0	0	0	1
+Peptidase M16C associated	0	1	0	0	0	0
+Peptidase M17; leucyl aminopeptidase; C-terminal	0	0	0	0	0	1
+Peptidase M1; membrane alanine aminopeptidase; N-terminal	0	1	0	0	0	1
+Peptidase M20	0	0	0	1	0	0
+Peptidase M24	1	1	0	0	1	1
+Peptidase M28	0	0	0	0	0	1
+Peptidase M3A/M3B	0	1	0	0	0	1
+Peptidase M41	0	0	0	0	0	1
+Peptidase M41; FtsH extracellular	0	0	0	0	0	1
+Peptidase S10; serine carboxypeptidase	0	0	0	0	0	1
+Peptidase S24/S26A/S26B	0	0	0	0	0	1
+Peptidase S54; rhomboid domain	0	0	0	0	0	1
+Peptidase S8A; tripeptidyl peptidase II	0	0	0	0	0	1
+Peptidase family A1 domain	0	0	0	0	0	1
+Peptide chain release factor	0	1	0	0	0	0
+Peptide chain release factor class I/class II	1	1	0	0	0	0
+Peptide deformylase	0	0	0	0	0	1
+Peptidyl-prolyl cis-trans isomerase; PpiC-type	0	1	0	0	0	1
+Peptidyl-tRNA hydrolase	0	0	1	0	0	1
+Peptidyl-tRNA hydrolase; PTH2	0	1	0	0	0	0
+Per33/Pom33 family	0	0	0	0	0	1
+Perilipin	0	0	0	0	0	1
+Peroxin 13; N-terminal	0	0	0	0	0	1
+Peroxiredoxin; C-terminal	1	1	0	0	0	1
+Peroxisome membrane protein; Pex16	0	0	0	0	0	1
+Pescadillo	0	1	0	0	0	1
+Phenylalanyl-tRNA synthetase	0	0	0	0	0	1
+Phosducin; thioredoxin-like domain	0	0	0	0	0	1
+Phosphatidic acid phosphatase type 2/haloperoxidase	0	0	0	0	0	1
+Phosphatidyl serine synthase	0	0	1	0	1	1
+Phosphatidylethanolamine-binding protein	1	1	0	1	1	1
+Phosphatidylinositol 3-/4-kinase; catalytic domain	0	1	1	0	1	1
+Phosphatidylinositol-glycan biosynthesis class S protein	0	0	0	0	0	1
+Phosphoenolpyruvate carboxykinase; GTP-utilising	0	0	0	0	0	1
+Phosphofructokinase domain	0	0	0	0	0	1
+Phosphoglucose isomerase (PGI)	0	0	0	0	0	1
+Phosphoglycerate kinase	0	0	0	0	1	0
+Phosphoinositide-specific phospholipase C; EF-hand-like domain	0	1	0	0	0	0
+Phospholipase/carboxylesterase/thioesterase	0	1	0	0	0	0
+Phospholipid methyltransferase	0	0	0	0	0	1
+Phospholipid/glycerol acyltransferase	0	0	0	0	0	1
+Phosphopantetheine binding ACP domain	0	1	0	0	0	0
+Phosphoribosyltransferase domain	0	0	0	0	0	1
+Phosphorylated CTD interacting factor 1; WW domain	0	0	0	0	0	1
+Phosphotransferase KptA/Tpt1	0	0	0	0	0	1
+Phosphotyrosine protein phosphatase I superfamily	0	0	0	0	0	1
+Phox homologous domain	0	1	0	0	0	0
+Phox-associated domain	0	1	0	0	0	0
+Pinin/SDK	0	0	1	0	0	1
+Pinin/SDK/MemA protein	1	1	0	0	0	0
+Piwi domain	1	1	1	0	1	0
+Pleckstrin homology domain	1	1	0	0	0	0
+Plectin repeat	0	1	0	0	1	0
+Plectin/S10; N-terminal	1	1	0	0	0	0
+Polo kinase kinase	0	1	0	0	0	0
+Poly(A) polymerase; RNA-binding domain	0	1	0	0	0	0
+Poly(A) polymerase; central domain	0	1	0	0	0	1
+Poly(ADP-ribose) glycohydrolase	0	0	0	0	0	1
+Poly(ADP-ribose) polymerase; catalytic domain	0	0	1	0	1	1
+Poly(ADP-ribose) polymerase; regulatory domain	0	0	0	0	1	1
+Polyadenylate-binding protein/Hyperplastic disc protein	1	1	1	0	0	1
+Polyketide synthase; dehydratase domain	0	1	0	0	1	0
+Polyketide synthase; ketoreductase domain	0	1	0	0	1	1
+Polymerase; nucleotidyl transferase domain	0	1	0	0	1	0
+Polyprenyl synthetase	0	0	0	0	0	1
+Polyribonucleotide 5'-hydroxyl-kinase Clp1; P-loop domain	0	1	0	0	0	1
+Polyribonucleotide nucleotidyltransferase; RNA-binding domain	0	1	0	0	0	0
+Possible tRNA binding domain	0	1	0	0	0	1
+Potassium channel domain	0	1	0	0	0	0
+Potassium channel tetramerisation-type BTB domain	0	0	0	0	1	1
+Pre-mRNA cleavage complex subunit Clp1	0	1	0	0	0	0
+Pre-mRNA splicing Prp18-interacting factor	0	1	0	0	0	0
+Pre-mRNA splicing factor component Cdc5p/Cef1	0	1	0	0	0	0
+Pre-mRNA-processing-splicing factor 8; U5-snRNA-binding	0	1	1	0	1	1
+Pre-mRNA-processing-splicing factor 8; U6-snRNA-binding	1	1	1	0	1	1
+Pre-mRNA-splicing factor 19	0	0	0	0	0	1
+Pre-mRNA-splicing factor 38	1	1	1	0	0	1
+Pre-mRNA-splicing factor 38; C-terminal	0	1	0	0	0	0
+Pre-rRNA-processing protein RIX1; N-terminal	0	0	0	0	0	1
+Prenylated rab acceptor PRA1	0	0	0	0	0	1
+Prenylcysteine lyase	0	0	0	0	0	1
+Primosome PriB/single-strand DNA-binding	1	1	1	1	0	1
+Prion/Doppel protein; beta-ribbon domain	0	0	0	0	0	1
+Profilin	0	1	0	0	1	1
+Programmed cell death protein 7	0	0	0	0	0	1
+Proliferating cell nuclear antigen; PCNA; C-terminal	0	0	0	0	0	1
+Prominin	0	1	0	0	0	0
+Proteasome activator pa28; C-terminal domain	0	0	0	0	0	1
+Proteasome alpha-subunit; N-terminal domain	0	0	0	0	0	1
+Proteasome assembly chaperone 1	0	0	0	0	1	0
+Proteasome assembly chaperone 4	0	0	0	0	0	1
+Proteasome component (PCI) domain	1	1	1	0	0	1
+Proteasome; subunit alpha/beta	1	1	0	0	0	1
+Protein CDV3	0	1	0	0	0	0
+Protein LYRIC	0	0	0	1	0	1
+Protein N-terminal glutamine amidohydrolase; alpha beta roll	0	1	0	0	0	0
+Protein Njmu-R1	0	0	0	0	0	1
+Protein RED; C-terminal	0	0	0	0	1	0
+Protein arginine N-methyltransferase	0	0	0	0	1	1
+Protein argonaute; Mid domain	1	1	0	0	1	0
+Protein argonaute; N-terminal	1	1	1	1	1	1
+Protein import receptor MAS20	0	1	0	0	0	0
+Protein jagunal	0	0	0	0	0	1
+Protein kinase A anchor protein; nuclear localisation signal domain	0	1	0	0	0	0
+Protein kinase C-like; phorbol ester/diacylglycerol-binding domain	0	1	0	0	0	0
+Protein kinase domain	1	1	1	0	1	1
+Protein kinase; C-terminal	1	1	0	0	0	0
+Protein kish	1	0	0	0	0	0
+Protein of unknown function DUF1075	0	0	0	0	0	1
+Protein of unknown function DUF1168	1	0	0	0	0	0
+Protein of unknown function DUF1387	0	0	0	0	1	0
+Protein of unknown function DUF1394	0	1	0	0	0	1
+Protein of unknown function DUF1487	0	1	0	0	0	0
+Protein of unknown function DUF1682	0	1	0	0	0	1
+Protein of unknown function DUF1917	0	0	0	0	0	1
+Protein of unknown function DUF2046	0	0	0	0	0	1
+Protein of unknown function DUF2053; membrane	0	0	0	0	0	1
+Protein of unknown function DUF227	0	1	0	0	0	0
+Protein of unknown function DUF229	0	1	0	0	0	0
+Protein of unknown function DUF2366	0	0	0	0	0	1
+Protein of unknown function DUF2368	0	0	0	0	0	1
+Protein of unknown function DUF2373	0	0	0	0	0	1
+Protein of unknown function DUF3337	0	1	0	0	0	0
+Protein of unknown function DUF3538	0	0	0	0	0	1
+Protein of unknown function DUF3546	0	1	0	0	1	0
+Protein of unknown function DUF3669; zinc finger protein	0	1	0	0	0	0
+Protein of unknown function DUF3697; ubiquitin-associated protein 2	0	1	0	0	0	0
+Protein of unknown function DUF4505	0	0	1	0	0	1
+Protein of unknown function DUF4507	0	0	0	0	0	1
+Protein of unknown function DUF4559	0	0	0	0	0	1
+Protein of unknown function DUF4594	0	0	1	1	1	1
+Protein of unknown function DUF4602	0	0	0	0	0	1
+Protein of unknown function DUF4615	0	0	0	0	1	0
+Protein of unknown function DUF4665	0	0	0	0	0	1
+Protein of unknown function DUF4674	0	0	0	0	0	1
+Protein of unknown function DUF4726	0	0	0	0	1	0
+Protein of unknown function DUF4775	0	1	0	0	0	0
+Protein of unknown function DUF4804	0	1	0	0	0	0
+Protein of unknown function DUF4807	0	1	0	0	0	0
+Protein of unknown function DUF727	0	1	0	0	0	0
+Protein of unknown function DUF829; TMEM53	0	1	0	0	0	0
+Protein of unknown function DUF938	0	1	0	0	0	0
+Protein of unknown function UPF0568	0	1	0	0	1	1
+Protein phosphatase 2A; regulatory B subunit; B56	1	1	0	0	0	1
+Protein quaking; putative nuclear localisation signal	0	0	0	0	0	1
+Protein transport protein SecG/Sec61-beta/Sbh	0	0	1	1	0	1
+Protein-lysine N-methyltransferase Efm5	1	1	0	0	0	0
+Protein-only RNase P; C-terminal	1	1	0	0	1	0
+Protein-tyrosine phosphatase-like; PTPLA	0	0	0	0	0	1
+Prp31 C-terminal	0	1	0	0	0	1
+Pseudouridine synthase I; TruA; alpha/beta domain	0	1	0	0	1	0
+Pseudouridine synthase II; N-terminal	0	1	0	1	1	1
+Pseudouridine synthase; RsuA/RluB/C/D/E/F	0	1	0	0	1	1
+Pseudouridine synthase; TruD	0	1	0	0	0	0
+Pumilio RNA-binding repeat	1	1	1	1	0	1
+PurE domain	0	0	0	0	0	1
+PurM-like; N-terminal domain	0	1	0	0	0	0
+Purine-rich element binding protein family	1	1	1	1	1	1
+Putative 5-3 exonuclease	1	1	1	0	1	0
+Putative RNA methylase domain	0	0	0	0	0	1
+Putative RNA methyltransferase	0	1	0	0	0	1
+Putative S-adenosyl-L-methionine-dependent methyltransferase MidA	0	0	0	0	0	1
+Putative TPR-like repeat	0	1	0	0	0	0
+Pyridoxal phosphate-dependent decarboxylase	0	1	0	0	0	0
+Pyrroline-5-carboxylate reductase; catalytic; N-terminal	0	0	0	0	0	1
+Pyrroline-5-carboxylate reductase; dimerisation domain	0	0	0	0	0	1
+Pyruvate carboxyltransferase	0	0	0	0	0	1
+R3H domain	1	1	1	1	0	1
+RAI1-like	1	1	0	0	0	0
+RAP domain	0	0	1	0	1	1
+RBM1CTR	0	0	1	0	0	1
+RDD	0	0	0	0	0	1
+RED-like; N-terminal	0	1	0	0	0	0
+RFT1	0	0	0	0	0	1
+RING-type zinc-finger; LisH dimerisation motif	0	0	0	0	1	0
+RIO2 kinase winged helix domain; N-terminal	0	1	0	0	0	0
+RNA 2-O ribose methyltransferase; substrate binding	0	1	1	0	0	1
+RNA 3'-terminal phosphate cyclase domain	0	0	0	0	1	1
+RNA 3'-terminal phosphate cyclase; insert domain	0	0	0	0	1	0
+RNA helicase UPF1; UPF2-interacting domain	1	1	1	0	1	0
+RNA helicase p68 repeat	0	0	1	0	0	1
+RNA methyltransferase bin3; C-terminal	0	0	1	0	0	0
+RNA polymerase I specific transcription initiation factor RRN3	0	1	0	0	0	0
+RNA polymerase II-binding domain	0	1	1	0	0	1
+RNA polymerase Rpb1; domain 1	0	1	0	0	0	0
+RNA polymerase Rpb1; domain 3	0	1	0	0	1	0
+RNA polymerase Rpb1; domain 4	0	1	0	0	1	0
+RNA polymerase Rpb1; domain 5	0	1	0	0	1	0
+RNA polymerase Rpb1; domain 6	0	1	0	0	0	0
+RNA polymerase Rpb1; domain 7	0	1	0	0	1	0
+RNA polymerase Rpb2; domain 2	0	1	1	0	0	1
+RNA polymerase Rpb2; domain 3	1	1	0	0	0	0
+RNA polymerase Rpb2; domain 4	0	1	0	0	0	0
+RNA polymerase Rpb2; domain 7	1	1	0	0	0	1
+RNA polymerase Rpb7; N-terminal	0	0	0	0	0	1
+RNA polymerase; Rpb8	0	1	0	0	0	0
+RNA polymerase; alpha subunit	0	1	0	0	1	1
+RNA polymerase; beta subunit; protrusion	1	1	1	0	0	1
+RNA recognition motif domain	1	1	1	1	1	1
+RNA recognition motif; spliceosomal PrP8	1	1	1	0	1	1
+RNA-binding S4 domain	1	1	0	0	1	1
+RNA-binding domain; S1; IF1 type	0	1	0	0	0	1
+RNA-binding protein Lupus La	1	1	1	0	1	1
+RNAse P; Rpr2/Rpp21 subunit	0	0	0	0	0	1
+RNMT-activating mini protein	1	1	1	0	0	1
+RNase L inhibitor RLI; possible metal-binding domain	0	1	0	0	0	0
+RNase P subunit p30	0	0	0	0	0	1
+ROK; N-terminal	0	0	1	0	0	0
+RQC domain	0	1	0	0	0	0
+RWD domain	0	1	0	0	0	0
+RZZ complex; subunit KNTC1/ROD; C-terminal	0	1	0	0	0	0
+RZZ complex; subunit Zw10	0	0	0	0	0	1
+Rab-GTPase-TBC domain	0	1	0	0	0	1
+Rab-binding domain FIP-RBD	0	1	0	0	0	0
+Rab5-interacting protein family	0	0	0	0	0	1
+Rad4 beta-hairpin domain 1	0	1	0	0	0	0
+Rad60/SUMO-like domain	1	1	0	0	0	1
+Ran binding domain	0	1	0	0	0	1
+Rapamycin-insensitive companion of mTOR; N-terminal domain	0	1	0	0	0	0
+Ras GTPase-activating protein	1	1	0	0	0	1
+Ras guanine-nucleotide exchange factors catalytic domain	0	1	0	0	0	0
+Ras-like guanine nucleotide exchange factor; N-terminal	0	1	0	0	0	0
+RecF/RecN/SMC; N-terminal	0	1	0	0	1	1
+RecQ mediated genome instability protein; N-terminal	0	1	0	0	0	0
+Receptor L-domain	0	1	0	0	0	0
+Regulator of chromosome condensation; RCC1	0	1	1	0	1	1
+Regulator of nonsense-mediated decay; UPF3	0	1	0	0	0	0
+Rel homology domain (RHD); DNA-binding domain	0	1	0	0	0	0
+Replication factor A; C-terminal	0	1	0	0	0	0
+Replication factor C; C-terminal	0	1	0	0	0	0
+Replication factor-A protein 1; N-terminal	0	1	0	0	0	0
+Replication protein A; OB domain	0	1	0	0	1	0
+Replication termination factor 2; RING-finger	0	1	0	0	0	0
+Reticulon	0	0	0	0	0	1
+Retinoblastoma-associated protein; A-box	0	0	0	0	0	1
+Retrieval of early ER protein Rer1	1	0	0	0	0	1
+Rho GTPase-activating protein domain	1	1	0	0	0	0
+Rho protein GDP-dissociation inhibitor	1	0	0	0	0	0
+Rhodanese-like domain	0	0	0	0	0	1
+Ribonuclease CAF1	0	1	0	0	0	0
+Ribonuclease III domain	0	1	1	0	1	0
+Ribonuclease P/MRP protein subunit	0	0	0	0	0	1
+Ribonuclease P/MRP; subunit POP1	0	0	0	0	0	1
+Ribonuclease Zc3h12a-like; NYN domain	0	1	0	0	0	0
+Ribonuclease; PIN domain	0	1	0	0	0	0
+Ribonucleotide reductase large subunit; C-terminal	0	1	0	0	0	0
+Ribonucleotide reductase large subunit; N-terminal	0	1	0	0	0	0
+Ribonucleotide reductase small subunit family	0	1	0	0	0	0
+Ribophorin I	0	0	0	1	0	1
+Ribosomal L28e/Mak16	0	1	0	1	0	1
+Ribosomal Proteins L2; RNA binding domain	1	1	1	0	1	1
+Ribosomal RNA adenine methyltransferase KsgA/Erm	1	1	0	0	0	1
+Ribosomal RNA large subunit methyltransferase F-like	0	0	1	0	0	1
+Ribosomal RNA methyltransferase FtsJ domain	0	1	0	0	0	1
+Ribosomal RNA methyltransferase Spb1; domain of unknown function DUF3381	0	1	0	0	1	1
+Ribosomal RNA methyltransferase; Spb1; C-terminal	0	1	0	0	1	1
+Ribosomal RNA processing protein 8	0	1	0	0	0	1
+Ribosomal RNA small subunit methyltransferase F; N-terminal	0	1	0	1	0	1
+Ribosomal RNA small subunit methyltransferase H	0	1	0	0	0	0
+Ribosomal RNA-processing protein 14/surfeit locus protein 6; C-terminal domain	0	0	0	0	1	1
+Ribosomal RNA-processing protein 15	0	1	0	0	0	0
+Ribosomal biogenesis regulatory protein	0	1	0	0	0	1
+Ribosomal biogenesis; methyltransferase; EMG1/NEP1	1	1	0	0	0	1
+Ribosomal protein 50S-L18Ae/60S-L20/60S-L18A	1	1	1	1	1	1
+Ribosomal protein 63; mitochondrial	1	1	0	0	1	1
+Ribosomal protein L1/ribosomal biogenesis protein	1	1	1	1	1	1
+Ribosomal protein L10P	1	1	1	0	1	1
+Ribosomal protein L10e/L16	1	1	0	0	1	1
+Ribosomal protein L11; C-terminal	0	1	0	0	1	0
+Ribosomal protein L11; N-terminal	0	1	0	1	0	1
+Ribosomal protein L13	1	1	1	1	1	1
+Ribosomal protein L13e	1	1	1	1	0	1
+Ribosomal protein L14P	1	1	0	1	1	1
+Ribosomal protein L14e domain	1	1	1	1	1	1
+Ribosomal protein L15e	1	0	1	1	1	1
+Ribosomal protein L17	1	1	1	0	0	1
+Ribosomal protein L18e/L15P	1	1	1	1	1	1
+Ribosomal protein L19	0	1	0	0	0	0
+Ribosomal protein L19/L19e	0	1	0	0	0	1
+Ribosomal protein L20	1	1	0	0	0	1
+Ribosomal protein L21-like	1	1	0	0	0	1
+Ribosomal protein L21e	0	1	0	0	0	1
+Ribosomal protein L22/L17	1	1	0	1	0	1
+Ribosomal protein L22e	1	1	1	0	1	1
+Ribosomal protein L23/L25; N-terminal	0	1	0	0	0	0
+Ribosomal protein L24	0	1	0	1	0	1
+Ribosomal protein L24e-related	0	1	0	0	1	1
+Ribosomal protein L25/L23	1	1	1	1	1	1
+Ribosomal protein L26/L24P; eukaryotic/archaeal	0	1	0	0	0	0
+Ribosomal protein L27	1	1	1	1	0	1
+Ribosomal protein L27/L41; mitochondrial	0	1	0	0	1	0
+Ribosomal protein L27e	0	0	0	0	0	1
+Ribosomal protein L28/L24	0	0	1	1	1	1
+Ribosomal protein L29	0	0	0	0	0	1
+Ribosomal protein L2; C-terminal	1	1	1	0	1	1
+Ribosomal protein L3	0	1	1	1	1	1
+Ribosomal protein L30; N-terminal	0	1	0	0	0	1
+Ribosomal protein L30; ferredoxin-like fold domain	1	1	1	0	0	1
+Ribosomal protein L31e	0	0	0	1	0	1
+Ribosomal protein L32e	1	0	0	1	0	0
+Ribosomal protein L34	0	1	1	1	0	1
+Ribosomal protein L34Ae	0	0	1	0	1	1
+Ribosomal protein L35	0	1	0	0	0	0
+Ribosomal protein L35A	1	1	0	0	1	1
+Ribosomal protein L36	0	1	0	0	0	0
+Ribosomal protein L36e	0	1	0	1	1	1
+Ribosomal protein L37/S30	1	1	1	0	1	1
+Ribosomal protein L37ae	0	0	0	0	0	1
+Ribosomal protein L37e	0	1	0	0	1	0
+Ribosomal protein L38e	1	0	0	1	0	1
+Ribosomal protein L39e	0	0	0	0	0	1
+Ribosomal protein L4/L1e	1	1	0	1	1	1
+Ribosomal protein L40e	0	0	0	0	1	0
+Ribosomal protein L47; mitochondrial	1	1	0	0	0	0
+Ribosomal protein L49/IMG2	0	1	0	0	0	0
+Ribosomal protein L5 eukaryotic/L18 archaeal	1	1	1	1	1	1
+Ribosomal protein L5 eukaryotic/L18 archaeal; C-terminal	1	1	1	1	1	1
+Ribosomal protein L50; mitochondria	0	1	0	0	0	0
+Ribosomal protein L51; mitochondrial	1	1	0	1	0	1
+Ribosomal protein L5; C-terminal	0	1	0	0	0	0
+Ribosomal protein L5; N-terminal	1	0	0	0	1	0
+Ribosomal protein L6; N-terminal	0	0	1	1	0	0
+Ribosomal protein L6; alpha-beta domain	0	0	0	0	1	0
+Ribosomal protein L7/L12; oligomerisation	0	1	0	0	0	0
+Ribosomal protein L7Ae/L30e/S12e/Gadd45	1	1	1	1	1	1
+Ribosomal protein L9; N-terminal	0	1	0	0	0	0
+Ribosomal protein Rsm22; bacterial-type	1	1	0	0	0	0
+Ribosomal protein S10 domain	1	1	0	1	0	1
+Ribosomal protein S11	0	1	0	0	1	0
+Ribosomal protein S12/S23	1	1	0	0	1	0
+Ribosomal protein S13	1	1	1	0	1	1
+Ribosomal protein S13/S15; N-terminal	1	1	0	1	1	1
+Ribosomal protein S14	1	1	0	0	0	0
+Ribosomal protein S15	1	1	1	0	0	1
+Ribosomal protein S16	0	1	1	0	0	1
+Ribosomal protein S17/S11	1	1	1	0	1	1
+Ribosomal protein S17e	1	1	0	0	1	0
+Ribosomal protein S18	1	1	1	0	1	0
+Ribosomal protein S19/S15	1	1	1	0	1	1
+Ribosomal protein S19e	1	1	1	1	1	1
+Ribosomal protein S2	1	1	1	0	1	1
+Ribosomal protein S21	1	1	0	0	0	0
+Ribosomal protein S21e	1	1	0	0	0	1
+Ribosomal protein S22; mitochondrial	0	1	0	0	0	0
+Ribosomal protein S23/S25; mitochondrial	1	1	1	1	1	1
+Ribosomal protein S23/S29; mitochondrial	0	1	0	0	0	0
+Ribosomal protein S24/S35; mitochondrial; conserved domain	0	1	0	0	0	0
+Ribosomal protein S24e	1	1	1	1	0	1
+Ribosomal protein S25	0	1	0	0	1	1
+Ribosomal protein S26e	1	1	1	1	1	1
+Ribosomal protein S27/S33; mitochondrial	0	1	0	0	0	0
+Ribosomal protein S27; mitochondrial	1	1	1	0	1	1
+Ribosomal protein S27a	0	1	0	0	1	0
+Ribosomal protein S27e	0	1	0	0	0	0
+Ribosomal protein S28; mitochondrial	0	1	1	0	0	0
+Ribosomal protein S28e	1	1	1	1	0	1
+Ribosomal protein S30	1	1	1	0	0	1
+Ribosomal protein S32; mitochondrial	0	1	0	0	0	0
+Ribosomal protein S3Ae	1	1	0	1	1	1
+Ribosomal protein S4/S9; N-terminal	1	1	0	0	1	1
+Ribosomal protein S4e; N-terminal	1	1	0	0	1	0
+Ribosomal protein S4e; central region	1	1	0	0	0	0
+Ribosomal protein S5; C-terminal	1	1	1	1	1	1
+Ribosomal protein S5; N-terminal	1	1	1	1	1	1
+Ribosomal protein S6	0	1	0	0	0	0
+Ribosomal protein S6e	0	1	0	1	1	0
+Ribosomal protein S7 domain	1	1	1	1	1	1
+Ribosomal protein S7e	1	1	1	0	1	1
+Ribosomal protein S8	1	1	0	0	1	1
+Ribosomal protein S8e/ribosomal biogenesis NSA2	1	1	0	1	1	1
+Ribosomal protein S9	1	1	0	1	1	1
+Ribosomal protein/NADH dehydrogenase domain	1	1	0	0	1	1
+Ribosome biogenesis factor NIP7-like	0	1	0	0	0	0
+Ribosome biogenesis protein BMS1/TSR1; C-terminal	0	1	0	1	1	1
+Ribosome biogenesis protein Nop16	0	1	0	0	1	1
+Ribosome biogenesis protein Nop53/GLTSCR2	0	1	0	0	1	0
+Ribosome biogenesis protein; C-terminal	0	1	0	0	0	0
+Ribosome maturation protein SBDS; C-terminal	0	1	0	0	1	1
+Ribosome maturation protein SBDS; N-terminal	0	1	0	0	1	1
+Ribosome recycling factor domain	0	1	0	0	0	0
+Ribosome-associated complex head domain	0	1	0	0	0	0
+Ribosome-binding factor A	0	1	0	0	0	0
+Root UVB sensitive family	0	0	0	0	0	1
+Rpn11/EIF3F; C-terminal	0	1	0	0	0	1
+Rubisco LSMT; substrate-binding domain	0	1	0	0	0	0
+S-adenosyl-L-methionine-dependent methyltransferase	0	0	0	0	0	1
+S-adenosylmethionine synthetase; C-terminal	0	0	0	1	0	0
+S-adenosylmethionine synthetase; central domain	0	1	0	1	0	1
+S1 domain	1	1	1	1	1	1
+S1-like RNA binding domain	0	0	1	0	0	1
+S100/CaBP-9k-type; calcium binding; subdomain	0	0	0	0	1	0
+SAC domain	0	0	0	0	0	1
+SAC3/GANP/THP3	0	1	0	0	0	0
+SAICAR synthetase/ADE2; N-terminal	0	1	0	0	0	1
+SAM-dependent methyltransferase RsmB/NOP2-type	1	1	0	0	1	1
+SANT/Myb domain	0	1	0	1	0	1
+SAP domain	0	1	0	0	1	1
+SAPAP family	0	1	0	0	0	0
+SARAH domain	0	0	0	0	1	0
+SBF1/SBF2 domain	0	0	0	0	1	0
+SCAMP	0	0	0	0	0	1
+SDA1 domain	0	1	0	0	0	0
+SET domain	0	1	0	0	0	1
+SF3A2 domain	0	1	0	0	0	0
+SF3A3 domain	0	1	0	0	0	1
+SGNH hydrolase-type esterase domain	0	0	0	0	0	1
+SH2 domain	0	1	1	0	0	1
+SH3 domain	0	1	1	0	0	1
+SIT4 phosphatase-associated protein family	0	1	0	0	0	1
+SKI-interacting protein SKIP; SNW domain	0	1	0	0	0	0
+SMCs flexible hinge	0	1	0	0	0	0
+SMP-30/Gluconolactonase/LRE-like region	0	1	0	0	0	0
+SNF2-related; N-terminal domain	0	1	0	0	0	1
+SNU66/SART1 family	0	1	0	1	0	0
+SPRY domain	0	1	1	0	1	1
+SPRY-associated	0	0	0	1	0	0
+SRP40; C-terminal	0	0	0	0	0	1
+SSRP1 domain	0	1	0	0	0	1
+STAR protein; homodimerisation region	0	1	0	0	1	0
+START domain	0	1	0	0	0	0
+STAT transcription factor; DNA-binding	0	1	0	0	0	0
+STAT transcription factor; all-alpha domain	0	1	0	0	0	0
+STAT transcription factor; protein interaction	0	1	0	0	0	0
+SUI1 domain	0	1	0	0	0	0
+SUN domain	0	1	0	0	0	1
+SUN domain-containing protein 1; N-terminal	0	0	0	0	0	1
+SUZ domain	1	1	0	0	1	0
+SWAP/Surp	1	1	1	0	0	1
+SWIB/MDM2 domain	1	1	0	0	0	1
+SWIRM domain	0	0	0	0	0	1
+Sam68; tyrosine-rich domain	0	0	1	0	0	1
+Saposin-like type B; region 1	0	1	0	0	0	1
+Sas10/Utp3/C1D	0	1	0	0	1	0
+Scaffold protein Nfu/NifU; N-terminal	0	1	0	0	0	0
+Sec1-like protein	0	1	0	0	0	0
+Sec20	0	0	0	0	0	1
+Sec23/Sec24 beta-sandwich	0	1	0	0	0	1
+Sec23/Sec24; helical domain	0	1	0	0	0	1
+Sec23/Sec24; trunk domain	0	1	0	0	0	1
+Sec63 domain	1	1	0	0	1	1
+Sec7 domain	0	0	0	0	0	1
+SecY/SEC61-alpha family	1	1	0	0	0	1
+Seipin family	0	0	0	0	0	1
+Sel1-like repeat	0	0	0	0	0	1
+Septin-type guanine nucleotide-binding (G) domain	0	1	0	0	0	0
+Serine aminopeptidase; S33	0	0	0	0	0	1
+Serine hydrolase FSH	0	0	0	0	0	1
+Serine hydroxymethyltransferase	0	0	0	0	0	1
+Serine-tRNA synthetase; type1; N-terminal	0	1	0	0	0	0
+Serine-threonine protein phosphatase; N-terminal	0	1	0	0	0	1
+Serine-threonine/tyrosine-protein kinase catalytic domain	0	1	0	0	1	1
+Serine/threonine-protein kinase SMG1	0	1	0	0	1	1
+Serpin domain	0	1	0	0	1	1
+Sestrin	0	0	0	0	0	1
+Short-chain dehydrogenase/reductase SDR	1	1	0	0	0	1
+Siah interacting protein; N-terminal	0	1	0	0	0	0
+Signal peptidase complex subunit 2	0	0	0	0	0	1
+Signal recognition particle receptor; alpha subunit; N-terminal	0	1	0	0	0	1
+Signal recognition particle receptor; beta subunit	0	0	0	1	0	1
+Signal recognition particle subunit SRP68	0	1	0	0	1	1
+Signal recognition particle; SRP14 subunit	0	0	0	0	1	1
+Signal recognition particle; SRP19 subunit	0	1	0	0	0	0
+Signal recognition particle; SRP54 subunit; GTPase domain	0	1	0	0	1	0
+Signal recognition particle; SRP54 subunit; M-domain	0	0	0	0	1	0
+Signal recognition particle; SRP54 subunit; helical bundle	0	1	0	0	1	0
+Sin3 associated polypeptide p18	0	1	1	0	0	0
+Sin3; C-terminal	0	0	0	0	0	1
+Small GTPase superfamily	0	1	0	0	1	1
+Small GTPase superfamily; ARF/SAR type	0	1	0	0	0	1
+Small-subunit processome; Utp12	0	1	0	0	0	1
+Small-subunit processome; Utp13	0	0	0	0	0	1
+Small-subunit processome; Utp14	0	1	0	0	1	1
+Small-subunit processome; Utp21	0	1	0	0	0	1
+Smaug; pseudo-HEAT analogous topology	0	1	0	0	0	0
+Smg8/Smg9	0	1	0	0	0	0
+Smr domain	0	1	0	0	0	0
+Snf7 family	0	1	0	0	0	0
+Sodium/potassium-transporting ATPase subunit beta	0	0	0	0	0	1
+Sodium:dicarboxylate symporter	0	0	0	0	0	1
+Sof1-like protein	0	1	0	0	0	0
+Solute carrier family 3 member 2; N-terminal domain	0	0	0	0	0	1
+Sorting nexin Vps5-like; C-terminal	0	1	0	0	0	0
+Sorting nexin protein; WASP-binding domain	0	1	0	0	0	0
+Spectrin repeat	0	1	0	1	1	1
+Spen paralogue and orthologue SPOC; C-terminal	1	1	1	0	1	0
+Spermatogenesis-associated protein 6; N-terminal	0	1	0	0	0	0
+Sphingomyelin phosphodiesterase 4	0	1	0	0	0	1
+Splicing factor 1; helix-hairpin domain	0	1	0	0	1	0
+Splicing factor 3A subunit 1	0	1	0	0	0	0
+Splicing factor 3B subunit 1	0	1	0	0	1	0
+Splicing factor RBM39; linker	1	1	1	1	0	0
+Splicing factor SF3a60 binding domain	0	1	0	0	0	0
+Spp2/MOS2; G-patch domain	0	1	0	0	0	0
+Spt5 transcription elongation factor; N-terminal	0	1	0	0	0	0
+Spt6 acidic; N-terminal domain	0	1	0	0	0	0
+Squalene cyclase; C-terminal	0	0	0	0	0	1
+Squalene cyclase; N-terminal	0	0	0	0	0	1
+Squalene epoxidase	0	0	0	0	0	1
+Squalene/phytoene synthase	0	0	0	0	0	1
+Staphylococcal nuclease (SNase-like); OB-fold	1	1	1	1	1	1
+Staufen; C-terminal	0	1	1	0	1	1
+Sterile alpha motif domain	0	1	0	0	1	1
+Store-operated calcium entry-associated regulatory factor	0	0	0	0	0	1
+Succinate dehydrogenase/Fumarate reductase; transmembrane subunit	0	0	0	0	0	1
+Suppressor of forked	0	1	0	1	1	1
+Suppressor of white apricot N-terminal domain	0	1	0	0	0	0
+Surfeit locus 4	0	0	0	0	0	1
+Survival motor neuron	1	1	0	0	0	0
+Sushi/SCR/CCP domain	1	1	0	0	0	0
+Symplekin  C-terminal	0	0	0	0	0	1
+Synaphin	0	0	0	1	0	0
+Synaptobrevin	0	0	0	0	0	1
+Synaptotagmin-like mitochondrial-lipid-binding domain	0	0	0	0	0	1
+TAF6; C-terminal HEAT repeat domain	0	0	0	0	0	1
+TAP C-terminal (TAP-C) domain	0	1	0	0	1	0
+TAP42-like protein	0	1	0	0	0	0
+TB2/DP1/HVA22-related protein	0	0	0	0	0	1
+TFIID subunit TAF5; NTD2 domain	0	0	0	0	0	1
+TFIIH subunit Tfb4/p34	0	1	0	0	0	0
+TGS	0	1	0	1	1	0
+THIF-type NAD/FAD binding fold	0	1	0	0	1	1
+THO complex subunit 2; N-terminal domain	0	1	0	0	0	0
+THO complex; subunit THOC1	0	1	0	0	0	0
+THO complex; subunitTHOC2; C-terminal	0	1	0	0	1	0
+THRAP3/BCLAF1 family	0	0	1	0	1	1
+THUMP domain	0	0	1	0	0	1
+TIP49; C-terminal	0	0	0	0	0	1
+TMEM101 protein	0	0	0	0	0	1
+TMEM70 family	0	0	0	0	0	1
+TMEM9	0	0	0	0	0	1
+TRAM/LAG1/CLN8 homology domain	0	0	0	0	0	1
+TRIC channel	0	0	0	0	0	1
+TROVE domain	0	0	0	0	1	0
+Talin; N-terminal F0 domain	0	1	0	0	0	0
+Taxilin family	0	1	0	0	0	0
+Telomerase activating protein Est1	0	1	0	0	0	0
+Telomere length regulation protein; conserved domain	0	0	0	0	0	1
+Telomere-associated protein Rif1; N-terminal	0	0	0	0	0	1
+Tensin/EPS8 phosphotyrosine-binding domain	0	1	0	0	0	0
+Tetrahydrofolate dehydrogenase/cyclohydrolase; NAD(P)-binding domain	0	0	0	0	0	1
+Tetrahydrofolate dehydrogenase/cyclohydrolase; catalytic domain	0	0	0	0	0	1
+Tetraspanin/Peripherin	0	0	0	0	0	1
+Tetratricopeptide repeat	0	1	0	0	1	1
+Tetratricopeptide repeat 1	0	1	0	0	0	0
+Tetratricopeptide-like helical domain	1	1	0	0	0	0
+Tex-like protein; N-terminal	0	0	0	1	0	0
+Thiamine pyrophosphate enzyme; C-terminal TPP-binding	0	0	0	0	0	1
+Thiamine pyrophosphate enzyme; central domain	0	0	0	0	0	1
+Thioesterase	0	1	0	0	1	1
+Thioesterase domain	0	1	0	0	0	0
+Thiolase; C-terminal	0	1	0	1	0	1
+Thiolase; N-terminal	1	1	0	1	0	1
+Thioredoxin domain	0	1	0	1	0	1
+Thioredoxin-like fold	0	0	0	0	0	1
+Threonyl/alanyl tRNA synthetase; SAD	0	1	0	0	1	0
+Thymidylate synthase/dCMP hydroxymethylase domain	0	1	0	0	0	1
+Tim10/DDP family zinc finger	0	0	0	0	0	1
+Tim44-like domain	1	1	0	0	1	1
+Timeless protein	0	0	0	0	0	1
+Tis11B-like protein; N-terminal	0	0	0	0	1	0
+Topoisomerase I C-terminal domain	0	1	0	0	0	1
+Topoisomerase II-associated protein PAT1	0	0	1	0	0	0
+Toprim domain	1	0	0	0	0	1
+Torsin	0	0	0	0	0	1
+Torus domain	0	1	0	0	0	0
+Transaldolase/Fructose-6-phosphate aldolase	0	0	0	0	0	1
+Transcription elongation factor Spt5; NGN domain	0	1	0	0	1	0
+Transcription elongation factor Spt6; YqgF domain	0	1	0	0	0	1
+Transcription elongation factor Spt6; helix-hairpin-helix motif	0	1	0	0	0	0
+Transcription factor 25	0	1	0	0	0	1
+Transcription factor IIS; N-terminal	0	0	0	1	0	0
+Transcription factor TFIIH subunit p52/Tfb2	0	0	0	0	0	1
+Transcription initiation factor TFIID; 23-30kDa subunit	0	0	0	0	0	1
+Transcription termination and cleavage factor; C-terminal domain	1	1	0	0	0	0
+Transcription termination factor; mitochondrial/chloroplastic	0	1	0	0	1	1
+Transcriptional coactivator p15 (PC4)	1	1	0	0	0	0
+Transcriptional regulator TACO1-like	0	1	1	1	1	1
+Transketolase-like; pyrimidine-binding domain	1	1	0	1	0	0
+Transketolase; C-terminal domain	0	0	0	0	0	1
+Transketolase; N-terminal	0	1	0	0	0	0
+Translation Initiation factor eIF- 4e	1	1	0	1	1	0
+Translation elongation factor EF1B; beta/delta subunit; guanine nucleotide exchange domain	0	1	0	0	0	0
+Translation elongation factor EF1B; gamma chain; conserved	0	1	0	0	0	0
+Translation elongation factor EFG/EF2; domain IV	1	1	0	1	1	1
+Translation elongation factor EFG; V domain	1	1	1	1	1	1
+Translation elongation factor EFTs/EF1B; dimerisation	0	1	0	0	0	0
+Translation elongation factor EFTu-like; domain 2	1	1	1	1	1	1
+Translation elongation factor EFTu/EF1A; C-terminal	1	1	0	0	0	0
+Translation elongation factor; IF5A C-terminal	0	1	0	0	1	0
+Translation initiation factor 2; alpha subunit	0	1	0	0	1	0
+Translation initiation factor 2; gamma subunit; C-terminal	0	1	0	0	0	0
+Translation initiation factor 3 complex subunit L	1	1	1	0	0	1
+Translation initiation factor IF- 2; domain 3	0	1	0	0	1	0
+Translation initiation factor IF2/IF5	0	1	0	0	0	1
+Translation initiation factor IF6	0	0	0	0	0	1
+Translation initiation factor; beta propellor-like domain	1	1	0	0	1	1
+Translation machinery associated TMA7	0	0	0	1	0	0
+Translation machinery-associated protein 16	0	0	0	0	0	1
+Translationally controlled tumour protein	0	0	0	0	0	1
+Translin family	1	1	1	0	0	1
+Translocon-associated	0	0	0	0	0	1
+Translocon-associated protein (TRAP); alpha subunit	0	1	0	0	0	0
+Translocon-associated protein subunit gamma	0	1	0	0	0	0
+Transmembrane protein 126	0	0	0	0	0	1
+Transmembrane protein 131-like	0	1	0	0	0	0
+Transmembrane protein 161A/B	0	0	0	0	0	1
+Transmembrane protein 214	1	1	0	1	0	1
+Transmembrane protein 258	0	0	0	0	0	1
+Transmembrane protein 65	0	0	0	0	0	1
+Transmembrane protein C12orf23; UPF0444	0	0	0	1	0	1
+Transport protein particle (TRAPP) component	0	0	0	0	0	1
+Treacher Collins syndrome; treacle	0	0	1	0	0	0
+Tricarboxylate/iron carrier	0	0	0	0	0	1
+Triosephosphate isomerase	0	1	0	0	0	1
+TspO/MBR-related protein	0	0	0	0	0	1
+Tti2 family	0	0	0	0	0	1
+Tuberin; N-terminal	0	0	0	0	0	1
+Tubulin-tyrosine ligase/Tubulin polyglutamylase	0	0	0	0	0	1
+Tubulin/FtsZ; 2-layer sandwich domain	0	0	0	0	1	0
+Tubulin/FtsZ; GTPase domain	0	1	0	0	0	0
+Tudor domain	1	1	1	1	1	0
+Tumor suppressor ARF	0	0	1	0	0	1
+Type-1 angiotensin II receptor-associated protein	0	0	0	0	0	1
+Tyrosyl-DNA phosphodiesterase I	0	1	0	0	0	0
+U1 small nuclear ribonucleoprotein of 70kDa N-terminal	0	1	0	0	1	1
+U3 small nucleolar RNA-associated protein 10	0	1	0	0	0	0
+U3 small nucleolar RNA-associated protein 15; C-terminal	0	1	0	0	1	1
+U3 small nucleolar RNA-associated protein 6	0	0	0	0	0	1
+U3 small nucleolar ribonucleoprotein complex; subunit Mpp10	0	1	0	0	0	0
+UBX domain	1	0	0	0	0	1
+UDP-glucose/GDP-mannose dehydrogenase; C-terminal	0	1	0	0	0	0
+UDP-glucose/GDP-mannose dehydrogenase; dimerisation	0	1	0	0	0	1
+UNC-45/Cro1/She4; central domain	0	0	0	0	0	1
+Ubiquinol-cytochrome c chaperone/UPF0174	0	0	0	0	0	1
+Ubiquitin E2 variant; N-terminal	0	1	0	0	0	0
+Ubiquitin carboxyl-terminal hydrolase 7; ICP0-binding domain	0	1	0	0	0	0
+Ubiquitin carboxyl-terminal hydrolase; C-terminal	0	1	0	0	0	0
+Ubiquitin domain	0	1	0	1	0	1
+Ubiquitin interacting motif	0	1	0	0	0	0
+Ubiquitin system component Cue	0	1	0	0	0	1
+Ubiquitin-activating enzyme E1; FCCH domain	0	1	0	0	1	0
+Ubiquitin-activating enzyme; catalytic cysteine domain	0	1	0	0	1	0
+Ubiquitin-associated domain	0	1	0	0	0	1
+Ubiquitin-conjugating enzyme E2	1	1	0	1	0	1
+Ulp1 protease family; C-terminal catalytic domain	0	1	0	0	0	0
+Uncharacterised domain NUC173	1	1	0	0	1	0
+Uncharacterised domain NUC202	0	0	0	0	0	1
+Uncharacterised protein family FAM98	1	1	0	0	1	0
+Uncharacterised protein family TMEM39	0	0	0	0	0	1
+Uncharacterised protein family UPF0248	0	0	0	0	0	1
+Uncharacterised protein family UPF0687	0	1	0	0	0	0
+Uncharacterised protein family; methyltransferase; Williams-Beuren syndrome	0	0	0	0	1	1
+Up-frameshift suppressor 2	0	1	0	0	0	0
+Uracil-DNA glycosylase-like	0	0	0	0	0	1
+Ureohydrolase	0	0	0	0	0	1
+V-type  ATPase; V0 complex; 116kDa subunit family	0	0	0	0	0	1
+VHS domain	0	1	0	0	0	0
+VPS9 domain	0	0	0	0	0	1
+Vacuolar ATPase assembly integral membrane protein Vma21	0	0	0	0	0	1
+Vacuolar fusion protein MON1	0	0	0	0	0	1
+Vacuolar protein sorting protein 26 related	0	0	0	0	0	1
+Vacuolar protein sorting-associated protein 13; C-terminal	0	0	0	0	0	1
+Vacuolar protein sorting-associated protein 35	0	1	0	0	0	1
+Vacuolar protein sorting-associated protein Ist1	0	1	0	0	0	1
+Vacuole morphology and inheritance protein 14; Fab1-binding region	0	0	0	0	0	1
+Vang-like protein	0	0	0	0	0	1
+Vinculin/alpha-catenin	0	1	0	0	0	0
+Virilizer; N-terminal	0	1	0	0	0	0
+Vitamin K epoxide reductase	0	0	0	0	0	1
+Vitamin K-dependent gamma-carboxylase	0	0	0	0	0	1
+Vps52	0	0	0	0	0	1
+W2 domain	1	1	0	0	1	1
+WASH complex subunit 7; central domain	0	0	0	0	0	1
+WASH complex; subunit strumpellin	0	0	0	0	0	1
+WD repeat-containing protein 18; C-terminal domain	0	0	0	0	0	1
+WD40 repeat	0	1	1	1	1	1
+WH1/EVH1 domain	1	0	0	0	0	0
+WHEP-TRS domain	0	1	0	1	0	0
+WIBG family	0	1	0	0	0	1
+WIF domain	0	1	0	0	0	0
+WRB/Get1 family	0	0	0	0	0	1
+WTAP/Mum2 family	0	1	0	0	0	0
+WW domain	1	1	0	1	0	0
+WWE domain	0	1	1	1	1	1
+XAP5 protein	0	1	0	0	0	0
+XPG N-terminal	0	0	0	0	0	1
+XPG-I domain	0	0	0	0	0	1
+XRN-Two Binding Domain; XTBD	0	1	0	0	0	0
+Xanthine/uracil/vitamin C permease	0	0	0	0	0	1
+YTH domain	0	1	1	0	1	1
+Yip1 domain	0	0	0	0	0	1
+Yippee/Mis18/Cereblon	0	1	0	0	0	1
+Yos1-like	1	0	0	0	0	1
+YrdC-like domain	0	0	0	0	0	1
+Yuri gagarin	0	1	0	0	0	0
+ZC3H15/TMA46 family; C-terminal	0	1	0	0	1	0
+Zinc finger domain-containing protein 24; zinc-binding domain	0	0	0	0	1	0
+Zinc finger protein NOA36	0	1	0	0	0	0
+Zinc finger; AD-type	0	1	0	0	0	0
+Zinc finger; AN1-type	0	0	0	0	0	1
+Zinc finger; C2H2	0	1	0	0	0	1
+Zinc finger; C2H2-like	1	1	0	0	1	0
+Zinc finger; C2H2; APLF-like	1	0	0	0	0	0
+Zinc finger; C2HC5-type	0	1	0	0	0	0
+Zinc finger; C3HC4 RING-type	0	1	0	0	0	0
+Zinc finger; CCCH-type	1	1	1	1	1	1
+Zinc finger; CCHC-type	1	1	1	1	1	1
+Zinc finger; CHCC-type	0	0	0	1	0	0
+Zinc finger; CHHC-type	0	0	1	1	1	1
+Zinc finger; GATA-type	1	1	0	0	0	0
+Zinc finger; LIM-type	0	1	0	1	0	0
+Zinc finger; MYND-type	0	1	0	0	0	0
+Zinc finger; NF-X1-type	0	1	0	0	1	0
+Zinc finger; PARP-type	0	0	0	0	1	1
+Zinc finger; RING-type	0	0	0	0	0	1
+Zinc finger; RanBP2-type	1	1	1	1	1	1
+Zinc finger; Sec23/Sec24-type	0	1	0	0	0	1
+Zinc finger; U1-C type	0	0	0	0	1	1
+Zinc finger; ZZ-type	0	1	0	0	0	0
+Zinc finger; double-stranded RNA binding	0	1	0	0	0	0
+Zinc/iron permease	0	1	0	0	0	1
+cGMP-dependent protein kinase; interacting domain	0	1	0	0	0	0
+dCTP pyrophosphatase 1	0	0	0	0	0	1
+eRF1 domain 1/Pelota-like	0	1	0	0	1	1
+eRF1 domain 2	0	1	1	0	1	1
+eRF1 domain 3	0	1	0	0	0	0
+mRNA (guanine-N(7))-methyltransferase domain	0	1	0	0	0	0
+mRNA capping enzyme; C-terminal	0	1	0	0	0	0
+mRNA capping enzyme; catalytic domain	0	1	0	0	0	0
+mRNA decapping protein 2; Box A domain	1	1	0	0	0	0
+mRNA splicing factor Cwf21 domain	0	1	0	0	0	0
+mRNA-decapping enzyme subunit 1	0	1	0	0	0	0
+p53; DNA-binding domain	0	0	1	0	0	1
+p53; tetramerisation domain	0	0	0	0	1	0
+rRNA-processing arch domain	0	1	0	0	0	0
+rRNA-processing protein Fcf1/Utp23	0	0	0	0	0	1
+siRNA-mediated silencing protein NRDE-2	0	1	0	0	0	0
+tRNA (1-methyladenosine) methyltransferase catalytic subunit Gcd14	0	0	0	0	0	1
+tRNA (guanine-N-7) methyltransferase; Trmb type	0	1	0	0	0	1
+tRNA methyltransferase TRMD/TRM10-type domain	0	1	0	0	0	0
+tRNA methyltransferase; Trm1	0	0	0	0	0	1
+tRNA pseudouridylate synthase B; C-terminal	1	1	0	0	0	0
+tRNA synthetases class I; catalytic domain	0	0	0	0	0	1
+tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG-related	0	1	0	0	0	1
+tRNA(Met) cytidine acetyltransferase TmcA; N-terminal	0	1	0	0	0	1
+tRNA-binding domain	0	0	0	1	0	1
+tRNA-dihydrouridine synthase	0	1	0	0	1	0
+tRNA-guanine(15) transglycosylase-like	0	0	0	0	1	0
+tRNA-splicing ligase; RtcB	1	1	1	1	0	1
+tRNA/rRNA methyltransferase; SpoU type	0	1	1	0	1	1
+tRNase Z endonuclease	0	0	0	1	0	1
